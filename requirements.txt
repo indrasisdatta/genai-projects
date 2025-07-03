@@ -1,3 +1,4 @@
+pydantic
 langchain >= 0.1.13
 langchain-community >= 0.0.20
 langchain-core
@@ -5,3 +6,5 @@ langchain-groq
 ipykernel 
 python-dotenv 
 elasticsearch
+streamlit
+pandas
