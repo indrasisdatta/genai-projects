@@ -8,3 +8,8 @@ python-dotenv
 elasticsearch
 streamlit
 pandas
+pypdf
+chromadb
+langchain_chroma
+langchain_huggingface
+sentence_transformers
