@@ -1,0 +1,2605 @@
+Age,Gender,Budget,Interest_1,Interest_2,Rating,Spot,State
+28,F,1800,Beach,Water Sports,5.0,Anjuna Beach,Goa
+28,F,1900,Beach,Water Sports,5.0,Anjuna Beach,Goa
+29,F,1900,Beach,Water Sports,5.0,Anjuna Beach,Goa
+29,M,1900,Beach,Water Sports,5.0,Anjuna Beach,Goa
+28,M,1900,Beach,Water Sports,5.0,Anjuna Beach,Goa
+28,M,1900,Beach,Water Sports,5.0,Anjuna Beach,Goa
+27,F,1800,Beach,Water Sports,5.0,Anjuna Beach,Goa
+29,F,1800,Beach,Relaxation,5.0,Candolim Beach,Goa
+33,F,2300,Beach,Relaxation,5.0,Majorda Beach,Goa
+31,F,2200,Beach,Water Sports,5.0,Vagator Beach,Goa
+29,F,1400,Beach,Adventure,4.9,Agonda Beach,Goa
+28,F,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+27,F,1800,Beach,Water Sports,4.9,Anjuna Beach,Goa
+27,F,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+27,M,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+28,F,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+27,F,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+27,F,1900,Beach,Water Sports,4.9,Anjuna Beach,Goa
+28,M,1800,Beach,Water Sports,4.9,Anjuna Beach,Goa
+35,M,2000,Beach,Shopping,4.9,Benaulim Beach,Goa
+35,M,2200,Beach,Shopping,4.9,Benaulim Beach,Goa
+33,F,2100,Beach,Shopping,4.9,Benaulim Beach,Goa
+34,F,1900,Beach,Shopping,4.9,Benaulim Beach,Goa
+34,M,2000,Beach,Shopping,4.9,Benaulim Beach,Goa
+35,M,2300,Beach,Shopping,4.9,Benaulim Beach,Goa
+30,M,1900,Beach,Relaxation,4.9,Candolim Beach,Goa
+29,F,2000,Beach,Relaxation,4.9,Candolim Beach,Goa
+30,F,1500,Beach,Relaxation,4.9,Candolim Beach,Goa
+35,F,2000,Beach,Relaxation,4.9,Colva Beach,Goa
+36,M,2100,Beach,Relaxation,4.9,Colva Beach,Goa
+36,F,2100,Beach,Relaxation,4.9,Colva Beach,Goa
+36,F,2100,Beach,Relaxation,4.9,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.9,Colva Beach,Goa
+27,F,1400,Beach,Adventure,4.9,Galgibaga Beach,Goa
+33,F,2300,Beach,Relaxation,4.9,Majorda Beach,Goa
+30,M,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2200,Beach,Shopping,4.8,Palolem Beach,Goa
+29,M,1800,Beach,Water Sports,4.8,Anjuna Beach,Goa
+30,F,1900,Beach,Relaxation,4.8,Anjuna Beach,Goa
+28,M,1800,Beach,Water Sports,4.8,Anjuna Beach,Goa
+29,M,1900,Beach,Water Sports,4.8,Anjuna Beach,Goa
+28,M,1800,Beach,Water Sports,4.8,Anjuna Beach,Goa
+28,F,1800,Beach,Water Sports,4.8,Anjuna Beach,Goa
+27,M,1800,Beach,Water Sports,4.8,Anjuna Beach,Goa
+31,M,1900,Beach,Relaxation,4.8,Anjuna Beach,Goa
+31,F,1900,Beach,Relaxation,4.8,Anjuna Beach,Goa
+33,F,2100,Beach,Cuisine,4.8,Anjuna Beach,Goa
+30,F,2000,Beach,Cuisine,4.8,Anjuna Beach,Goa
+31,M,2300,Beach,Cuisine,4.8,Anjuna Beach,Goa
+32,F,1900,Beach,Cuisine,4.8,Anjuna Beach,Goa
+30,F,2100,Beach,Cuisine,4.8,Anjuna Beach,Goa
+30,F,1900,Beach,Nightlife,4.8,Benaulim Beach,Goa
+30,F,1900,Beach,Nightlife,4.8,Benaulim Beach,Goa
+30,F,1900,Beach,Nightlife,4.8,Benaulim Beach,Goa
+30,F,1900,Beach,Nightlife,4.8,Benaulim Beach,Goa
+30,M,2000,Beach,Nightlife,4.8,Benaulim Beach,Goa
+33,M,2300,Beach,Shopping,4.8,Benaulim Beach,Goa
+33,M,2200,Beach,Shopping,4.8,Benaulim Beach,Goa
+34,F,2300,Beach,Shopping,4.8,Benaulim Beach,Goa
+33,M,2100,Beach,Shopping,4.8,Benaulim Beach,Goa
+35,M,2200,Beach,Shopping,4.8,Benaulim Beach,Goa
+35,F,2100,Beach,Shopping,4.8,Benaulim Beach,Goa
+34,M,2300,Beach,Shopping,4.8,Benaulim Beach,Goa
+33,M,2000,Beach,Shopping,4.8,Benaulim Beach,Goa
+33,F,2100,Beach,Shopping,4.8,Benaulim Beach,Goa
+34,M,2200,Beach,Shopping,4.8,Benaulim Beach,Goa
+34,F,1900,Beach,Shopping,4.8,Benaulim Beach,Goa
+32,M,1700,Beach,Nightlife,4.8,Benaulim Beach,Goa
+31,M,1500,Beach,Nightlife,4.8,Benaulim Beach,Goa
+34,F,2000,Beach,Nightlife,4.8,Benaulim Beach,Goa
+29,F,1600,Beach,Nightlife,4.8,Benaulim Beach,Goa
+35,F,1800,Beach,Nightlife,4.8,Benaulim Beach,Goa
+31,M,2100,Beach,Relaxation,4.8,Candolim Beach,Goa
+30,M,1700,Beach,Relaxation,4.8,Candolim Beach,Goa
+31,F,1600,Beach,Relaxation,4.8,Candolim Beach,Goa
+36,M,2100,Beach,Relaxation,4.8,Colva Beach,Goa
+35,M,2100,Beach,Relaxation,4.8,Colva Beach,Goa
+35,M,2100,Beach,Relaxation,4.8,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.8,Colva Beach,Goa
+35,F,2100,Beach,Relaxation,4.8,Colva Beach,Goa
+35,F,2100,Beach,Relaxation,4.8,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.8,Colva Beach,Goa
+33,F,2300,Beach,Relaxation,4.8,Majorda Beach,Goa
+30,M,2500,Beach,Nightlife,4.8,Mobor Beach,Goa
+32,M,1300,Beach,Adventure,4.8,Vagator Beach,Goa
+30,F,1900,Beach,Cuisine,4.8,Varca Beach,Goa
+31,F,2200,Beach,Relaxation,4.8,Varca Beach,Goa
+35,M,2500,Beach,Cuisine,4.7,Anjuna Beach,Goa
+35,M,2500,Beach,Cuisine,4.7,Anjuna Beach,Goa
+28,F,1900,Beach,Water Sports,4.7,Anjuna Beach,Goa
+28,F,1900,Beach,Water Sports,4.7,Anjuna Beach,Goa
+29,F,1900,Beach,Water Sports,4.7,Anjuna Beach,Goa
+27,F,1900,Beach,Water Sports,4.7,Anjuna Beach,Goa
+30,M,2000,Beach,Relaxation,4.7,Anjuna Beach,Goa
+30,F,1900,Beach,Relaxation,4.7,Anjuna Beach,Goa
+31,F,1900,Beach,Relaxation,4.7,Anjuna Beach,Goa
+30,M,2000,Beach,Relaxation,4.7,Anjuna Beach,Goa
+31,F,1900,Beach,Relaxation,4.7,Anjuna Beach,Goa
+30,F,2000,Beach,Relaxation,4.7,Anjuna Beach,Goa
+35,M,2000,Beach,Cuisine,4.7,Anjuna Beach,Goa
+35,M,2400,Beach,Cuisine,4.7,Anjuna Beach,Goa
+33,M,2000,Beach,Cuisine,4.7,Anjuna Beach,Goa
+30,M,2500,Beach,Cuisine,4.7,Anjuna Beach,Goa
+30,F,1800,Beach,Cuisine,4.7,Anjuna Beach,Goa
+34,F,2300,Beach,Cuisine,4.7,Anjuna Beach,Goa
+31,M,2400,Beach,Cuisine,4.7,Anjuna Beach,Goa
+30,F,1800,Beach,Cuisine,4.7,Anjuna Beach,Goa
+33,M,2000,Beach,Nightlife,4.7,Ashwem Beach,Goa
+32,M,1800,Beach,Relaxation,4.7,Ashwem Beach,Goa
+32,F,2100,Beach,Nightlife,4.7,Ashwem Beach,Goa
+33,M,1900,Beach,Nightlife,4.7,Ashwem Beach,Goa
+32,M,1900,Beach,Nightlife,4.7,Ashwem Beach,Goa
+33,M,1900,Beach,Nightlife,4.7,Ashwem Beach,Goa
+32,F,1800,Beach,Nightlife,4.7,Ashwem Beach,Goa
+34,M,2000,Beach,Shopping,4.7,Benaulim Beach,Goa
+35,F,2100,Beach,Shopping,4.7,Benaulim Beach,Goa
+34,M,2100,Beach,Shopping,4.7,Benaulim Beach,Goa
+34,M,1900,Beach,Shopping,4.7,Benaulim Beach,Goa
+33,M,2200,Beach,Shopping,4.7,Benaulim Beach,Goa
+35,F,2300,Beach,Shopping,4.7,Benaulim Beach,Goa
+35,M,1900,Beach,Shopping,4.7,Benaulim Beach,Goa
+30,M,1600,Beach,Nightlife,4.7,Benaulim Beach,Goa
+29,M,1800,Beach,Nightlife,4.7,Benaulim Beach,Goa
+33,F,1500,Beach,Nightlife,4.7,Benaulim Beach,Goa
+32,F,1800,Beach,Nightlife,4.7,Benaulim Beach,Goa
+34,M,2000,Beach,Nightlife,4.7,Benaulim Beach,Goa
+28,F,1600,Beach,Nightlife,4.7,Benaulim Beach,Goa
+30,M,1600,Beach,Nightlife,4.7,Benaulim Beach,Goa
+32,F,1500,Beach,Nightlife,4.7,Benaulim Beach,Goa
+35,M,1900,Beach,Nightlife,4.7,Benaulim Beach,Goa
+34,F,1800,Beach,Nightlife,4.7,Benaulim Beach,Goa
+35,F,2000,Beach,Nightlife,4.7,Benaulim Beach,Goa
+27,M,1600,Beach,Relaxation,4.7,Candolim Beach,Goa
+28,F,1700,Beach,Relaxation,4.7,Candolim Beach,Goa
+27,M,1900,Beach,Relaxation,4.7,Candolim Beach,Goa
+35,M,2000,Beach,Relaxation,4.7,Colva Beach,Goa
+35,F,2100,Beach,Relaxation,4.7,Colva Beach,Goa
+36,M,2100,Beach,Relaxation,4.7,Colva Beach,Goa
+35,F,2000,Beach,Relaxation,4.7,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.7,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.7,Colva Beach,Goa
+31,F,2200,Beach,Water Sports,4.8,Vagator Beach,Goa
+35,M,1300,Beach,Adventure,4.7,Varca Beach,Goa
+31,F,2200,Beach,Relaxation,4.7,Varca Beach,Goa
+30,F,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,M,2000,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,F,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+31,F,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,F,2000,Beach,Relaxation,4.6,Anjuna Beach,Goa
+31,F,2000,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,F,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,M,2000,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,F,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,M,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+30,M,1900,Beach,Relaxation,4.6,Anjuna Beach,Goa
+31,F,2000,Beach,Relaxation,4.6,Anjuna Beach,Goa
+33,F,2300,Beach,Cuisine,4.6,Anjuna Beach,Goa
+35,M,2500,Beach,Cuisine,4.6,Anjuna Beach,Goa
+31,M,1900,Beach,Cuisine,4.6,Anjuna Beach,Goa
+31,F,2300,Beach,Cuisine,4.6,Anjuna Beach,Goa
+31,M,2200,Beach,Cuisine,4.6,Anjuna Beach,Goa
+32,M,2000,Beach,Nightlife,4.6,Ashwem Beach,Goa
+33,M,2200,Beach,Nightlife,4.6,Ashwem Beach,Goa
+32,F,2000,Beach,Nightlife,4.6,Ashwem Beach,Goa
+33,F,2200,Beach,Nightlife,4.6,Ashwem Beach,Goa
+33,F,2200,Beach,Nightlife,4.6,Ashwem Beach,Goa
+32,M,2300,Beach,Nightlife,4.6,Ashwem Beach,Goa
+32,F,2000,Beach,Nightlife,4.6,Ashwem Beach,Goa
+33,M,2100,Beach,Nightlife,4.6,Ashwem Beach,Goa
+32,F,2300,Beach,Nightlife,4.6,Ashwem Beach,Goa
+31,M,2100,Beach,Relaxation,4.6,Candolim Beach,Goa
+27,F,1900,Beach,Relaxation,4.6,Candolim Beach,Goa
+35,F,2000,Beach,Relaxation,4.6,Colva Beach,Goa
+35,M,2000,Beach,Relaxation,4.6,Colva Beach,Goa
+35,M,2100,Beach,Relaxation,4.6,Colva Beach,Goa
+30,F,1200,Beach,Adventure,4.6,Palolem Beach,Goa
+29,M,1800,Beach,Relaxation,4.6,Palolem Beach,Goa
+31,F,2200,Beach,Relaxation,4.6,Varca Beach,Goa
+30,F,1900,Beach,Relaxation,4.5,Anjuna Beach,Goa
+31,M,2000,Beach,Relaxation,4.5,Anjuna Beach,Goa
+31,F,2000,Beach,Relaxation,4.5,Anjuna Beach,Goa
+31,M,2000,Beach,Relaxation,4.5,Anjuna Beach,Goa
+33,F,2000,Beach,Cuisine,4.5,Anjuna Beach,Goa
+31,F,2100,Beach,Cuisine,4.5,Anjuna Beach,Goa
+33,M,2300,Beach,Cuisine,4.5,Anjuna Beach,Goa
+25,M,1200,Beach,Adventure,4.5,Arambol Beach,Goa
+33,F,1800,Beach,Nightlife,4.5,Ashwem Beach,Goa
+32,M,2000,Beach,Nightlife,4.5,Ashwem Beach,Goa
+32,M,2100,Beach,Nightlife,4.5,Ashwem Beach,Goa
+32,F,2300,Beach,Nightlife,4.5,Ashwem Beach,Goa
+33,F,2100,Beach,Nightlife,4.5,Ashwem Beach,Goa
+32,M,2200,Beach,Shopping,4.5,Baga Beach,Goa
+31,M,2100,Beach,Shopping,4.5,Baga Beach,Goa
+28,M,1700,Beach,Water Sports,4.5,Baga Beach,Goa
+27,M,1700,Beach,Water Sports,4.5,Baga Beach,Goa
+31,M,2000,Beach,Shopping,4.5,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+27,M,1700,Beach,Water Sports,4.5,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+27,F,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+27,F,1700,Beach,Water Sports,4.5,Baga Beach,Goa
+28,F,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+28,M,1700,Beach,Water Sports,4.5,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+28,F,1800,Beach,Water Sports,4.5,Baga Beach,Goa
+28,F,1200,Beach,Adventure,4.5,Butterfly Beach,Goa
+32,M,1300,Beach,Adventure,4.5,Butterfly Beach,Goa
+31,F,2300,Beach,Cuisine,4.5,Candolim Beach,Goa
+31,M,2100,Beach,Relaxation,4.5,Candolim Beach,Goa
+31,F,1900,Beach,Relaxation,4.5,Candolim Beach,Goa
+28,F,2000,Beach,Relaxation,4.5,Candolim Beach,Goa
+30,M,1700,Beach,Relaxation,4.5,Candolim Beach,Goa
+30,F,1600,Beach,Relaxation,4.5,Candolim Beach,Goa
+29,F,1800,Beach,Relaxation,4.5,Candolim Beach,Goa
+31,F,2700,Beach,Water Sports,4.5,Colva Beach,Goa
+32,F,2700,Beach,Water Sports,4.5,Colva Beach,Goa
+31,M,2500,Beach,Water Sports,4.5,Colva Beach,Goa
+32,M,2700,Beach,Water Sports,4.5,Colva Beach,Goa
+31,F,2200,Beach,Water Sports,4.5,Colva Beach,Goa
+31,F,2200,Beach,Water Sports,4.5,Colva Beach,Goa
+33,F,2300,Beach,Water Sports,4.5,Galgibaga Beach,Goa
+33,F,1200,Beach,Adventure,4.5,Miramar Beach,Goa
+31,M,2000,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,M,2000,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,M,2000,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,M,2000,Beach,Nightlife,4.5,Mobor Beach,Goa
+28,F,1700,Beach,Relaxation,4.5,Vagator Beach,Goa
+28,F,1600,Beach,Relaxation,4.5,Varca Beach,Goa
+31,F,2300,Beach,Nightlife,4.4,Arambol Beach,Goa
+31,F,2300,Beach,Nightlife,4.4,Arambol Beach,Goa
+31,F,2300,Beach,Nightlife,4.4,Arambol Beach,Goa
+31,F,2300,Beach,Nightlife,4.4,Arambol Beach,Goa
+32,M,1800,Beach,Relaxation,4.4,Ashwem Beach,Goa
+31,M,1900,Beach,Shopping,4.4,Baga Beach,Goa
+32,F,2000,Beach,Shopping,4.4,Baga Beach,Goa
+31,F,2100,Beach,Shopping,4.4,Baga Beach,Goa
+28,M,1700,Beach,Water Sports,4.4,Baga Beach,Goa
+27,F,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+28,M,1700,Beach,Water Sports,4.4,Baga Beach,Goa
+27,F,1700,Beach,Water Sports,4.4,Baga Beach,Goa
+27,M,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+27,F,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+28,M,1700,Beach,Water Sports,4.4,Baga Beach,Goa
+28,M,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+28,F,1700,Beach,Water Sports,4.4,Baga Beach,Goa
+27,M,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+28,F,1800,Beach,Water Sports,4.4,Baga Beach,Goa
+33,F,1900,Beach,Water Sports,4.4,Benaulim Beach,Goa
+34,M,2000,Beach,Water Sports,4.4,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.4,Benaulim Beach,Goa
+34,F,2000,Beach,Water Sports,4.4,Benaulim Beach,Goa
+34,F,2000,Beach,Water Sports,4.4,Benaulim Beach,Goa
+34,F,1900,Beach,Water Sports,4.4,Benaulim Beach,Goa
+34,M,1900,Beach,Water Sports,4.4,Benaulim Beach,Goa
+30,M,1300,Beach,Adventure,4.4,Butterfly Beach,Goa
+29,M,1200,Beach,Adventure,4.4,Butterfly Beach,Goa
+33,F,1200,Beach,Adventure,4.4,Butterfly Beach,Goa
+31,M,1300,Beach,Adventure,4.4,Butterfly Beach,Goa
+31,F,1200,Beach,Adventure,4.4,Butterfly Beach,Goa
+28,M,1000,Beach,Adventure,4.4,Candolim Beach,Goa
+27,M,1500,Beach,Relaxation,4.4,Candolim Beach,Goa
+27,F,1700,Beach,Water Sports,4.4,Candolim Beach,Goa
+27,F,1700,Beach,Water Sports,4.4,Candolim Beach,Goa
+27,M,1700,Beach,Water Sports,4.4,Candolim Beach,Goa
+28,F,1600,Beach,Relaxation,4.4,Candolim Beach,Goa
+32,F,2300,Beach,Cuisine,4.4,Candolim Beach,Goa
+32,M,2000,Beach,Cuisine,4.4,Candolim Beach,Goa
+32,F,2400,Beach,Water Sports,4.4,Colva Beach,Goa
+31,M,2200,Beach,Water Sports,4.4,Colva Beach,Goa
+32,F,2200,Beach,Water Sports,4.4,Colva Beach,Goa
+32,M,2700,Beach,Water Sports,4.4,Colva Beach,Goa
+32,F,2200,Beach,Water Sports,4.4,Colva Beach,Goa
+32,M,2200,Beach,Water Sports,4.4,Colva Beach,Goa
+31,M,2200,Beach,Water Sports,4.4,Colva Beach,Goa
+32,M,2500,Beach,Water Sports,4.4,Colva Beach,Goa
+31,M,2500,Beach,Water Sports,4.4,Colva Beach,Goa
+30,F,2200,Beach,Cuisine,4.4,Miramar Beach,Goa
+31,M,2100,Beach,Nightlife,4.4,Miramar Beach,Goa
+29,M,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,F,1700,Beach,Water Sports,4.3,Agonda Beach,Goa
+30,F,1500,Beach,Adventure,4.3,Anjuna Beach,Goa
+33,M,2200,Beach,Nightlife,4.3,Arambol Beach,Goa
+34,F,2000,Beach,Nightlife,4.3,Arambol Beach,Goa
+31,M,2300,Beach,Nightlife,4.3,Arambol Beach,Goa
+34,M,1700,Beach,Nightlife,4.3,Arambol Beach,Goa
+34,F,1700,Beach,Nightlife,4.3,Arambol Beach,Goa
+31,F,1800,Beach,Nightlife,4.3,Arambol Beach,Goa
+34,M,1700,Beach,Nightlife,4.3,Arambol Beach,Goa
+32,M,1600,Beach,Nightlife,4.3,Arambol Beach,Goa
+31,M,2100,Beach,Shopping,4.3,Ashwem Beach,Goa
+34,F,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,M,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,F,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,F,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,F,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,M,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+33,F,2000,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+34,M,1900,Beach,Water Sports,4.3,Benaulim Beach,Goa
+30,M,1300,Beach,Adventure,4.3,Butterfly Beach,Goa
+31,F,1200,Beach,Adventure,4.3,Butterfly Beach,Goa
+30,F,1200,Beach,Adventure,4.3,Butterfly Beach,Goa
+30,M,1300,Beach,Adventure,4.3,Candolim Beach,Goa
+32,F,2100,Beach,Cuisine,4.3,Candolim Beach,Goa
+27,F,1700,Beach,Water Sports,4.3,Candolim Beach,Goa
+27,M,1700,Beach,Water Sports,4.3,Candolim Beach,Goa
+28,F,1700,Beach,Water Sports,4.3,Candolim Beach,Goa
+27,M,1600,Beach,Water Sports,4.3,Candolim Beach,Goa
+28,F,1700,Beach,Water Sports,4.3,Candolim Beach,Goa
+28,F,1600,Beach,Water Sports,4.3,Candolim Beach,Goa
+27,F,1600,Beach,Water Sports,4.3,Candolim Beach,Goa
+28,M,1700,Beach,Water Sports,4.3,Candolim Beach,Goa
+31,M,1800,Beach,Relaxation,4.3,Candolim Beach,Goa
+28,M,2100,Beach,Relaxation,4.3,Candolim Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Candolim Beach,Goa
+31,F,1700,Beach,Relaxation,4.3,Candolim Beach,Goa
+29,M,2100,Beach,Relaxation,4.3,Candolim Beach,Goa
+31,F,2300,Beach,Cuisine,4.3,Candolim Beach,Goa
+32,F,2000,Beach,Cuisine,4.3,Candolim Beach,Goa
+31,F,2100,Beach,Cuisine,4.3,Candolim Beach,Goa
+32,F,2100,Beach,Cuisine,4.3,Candolim Beach,Goa
+32,M,2200,Beach,Cuisine,4.3,Candolim Beach,Goa
+31,M,2000,Beach,Cuisine,4.3,Candolim Beach,Goa
+32,M,2000,Beach,Cuisine,4.3,Candolim Beach,Goa
+31,M,2100,Beach,Water Sports,4.3,Colva Beach,Goa
+32,F,2200,Beach,Water Sports,4.3,Colva Beach,Goa
+32,M,2700,Beach,Water Sports,4.3,Colva Beach,Goa
+32,M,2700,Beach,Water Sports,4.3,Colva Beach,Goa
+31,M,2300,Beach,Water Sports,4.3,Colva Beach,Goa
+31,F,2500,Beach,Water Sports,4.3,Colva Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+30,F,1900,Beach,Water Sports,4.3,Mobor Beach,Goa
+28,F,1800,Beach,Relaxation,4.5,Palolem Beach,Goa
+32,F,2000,Beach,Cuisine,4.3,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,F,1600,Beach,Relaxation,4.3,Varca Beach,Goa
+27,F,1700,Beach,Water Sports,4.2,Agonda Beach,Goa
+27,F,1800,Beach,Water Sports,4.2,Agonda Beach,Goa
+27,M,1700,Beach,Water Sports,4.2,Agonda Beach,Goa
+27,F,1800,Beach,Water Sports,4.2,Agonda Beach,Goa
+28,M,1700,Beach,Water Sports,4.2,Agonda Beach,Goa
+31,F,2200,Beach,Nightlife,4.2,Arambol Beach,Goa
+31,M,1600,Beach,Nightlife,4.2,Arambol Beach,Goa
+31,M,1700,Beach,Nightlife,4.2,Arambol Beach,Goa
+33,M,1700,Beach,Nightlife,4.2,Arambol Beach,Goa
+34,F,1600,Beach,Nightlife,4.2,Arambol Beach,Goa
+34,F,2300,Beach,Nightlife,4.2,Arambol Beach,Goa
+33,F,2100,Beach,Nightlife,4.2,Arambol Beach,Goa
+34,M,1600,Beach,Nightlife,4.2,Arambol Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Arambol Beach,Goa
+33,F,1900,Beach,Nightlife,4.2,Arambol Beach,Goa
+32,F,1900,Beach,Nightlife,4.2,Arambol Beach,Goa
+27,F,1400,Beach,Adventure,4.2,Ashwem Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Baga Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Baga Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Baga Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Baga Beach,Goa
+26,M,1400,Beach,Relaxation,4.2,Baga Beach,Goa
+31,F,2000,Beach,Nightlife,4.2,Baga Beach,Goa
+31,M,1700,Beach,Nightlife,4.2,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.2,Baga Beach,Goa
+27,M,1500,Beach,Relaxation,4.2,Baga Beach,Goa
+27,M,1400,Beach,Relaxation,4.2,Baga Beach,Goa
+27,M,1500,Beach,Relaxation,4.2,Baga Beach,Goa
+27,M,1500,Beach,Relaxation,4.2,Baga Beach,Goa
+27,F,1400,Beach,Relaxation,4.2,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.2,Baga Beach,Goa
+32,M,2100,Beach,Shopping,4.2,Baga Beach,Goa
+30,F,1900,Beach,Shopping,4.2,Baga Beach,Goa
+28,M,1300,Beach,Adventure,4.2,Butterfly Beach,Goa
+28,M,1200,Beach,Adventure,4.2,Butterfly Beach,Goa
+34,F,1300,Beach,Adventure,4.2,Butterfly Beach,Goa
+29,F,1900,Beach,Shopping,4.2,Calangute Beach,Goa
+27,M,1800,Beach,Shopping,4.2,Calangute Beach,Goa
+30,F,1700,Beach,Shopping,4.2,Calangute Beach,Goa
+27,M,1600,Beach,Shopping,4.2,Calangute Beach,Goa
+35,F,1400,Beach,Adventure,4.2,Candolim Beach,Goa
+35,F,1400,Beach,Adventure,4.2,Candolim Beach,Goa
+28,M,1600,Beach,Water Sports,4.2,Candolim Beach,Goa
+28,F,1600,Beach,Water Sports,4.2,Candolim Beach,Goa
+28,F,1700,Beach,Water Sports,4.2,Candolim Beach,Goa
+28,M,1600,Beach,Water Sports,4.2,Candolim Beach,Goa
+28,F,1600,Beach,Relaxation,4.2,Candolim Beach,Goa
+30,M,1700,Beach,Relaxation,4.2,Candolim Beach,Goa
+29,M,1500,Beach,Relaxation,4.2,Candolim Beach,Goa
+32,F,2000,Beach,Cuisine,4.2,Candolim Beach,Goa
+31,M,2100,Beach,Cuisine,4.2,Candolim Beach,Goa
+31,M,2000,Beach,Cuisine,4.2,Candolim Beach,Goa
+31,F,2100,Beach,Cuisine,4.2,Candolim Beach,Goa
+34,M,2000,Beach,Nightlife,4.2,Colva Beach,Goa
+32,F,2000,Beach,Cuisine,4.2,Galgibaga Beach,Goa
+32,F,2000,Beach,Cuisine,4.2,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,M,1000,Beach,Adventure,4.2,Vagator Beach,Goa
+31,M,1900,Beach,Nightlife,4.2,Vagator Beach,Goa
+29,M,1800,Beach,Shopping,4.2,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+34,M,1900,Beach,Cuisine,4.2,Varca Beach,Goa
+30,F,1900,Beach,Cuisine,4.2,Varca Beach,Goa
+29,F,1900,Beach,Relaxation,4.5,Varca Beach,Goa
+27,F,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+28,F,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+27,M,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+28,M,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+28,M,1800,Beach,Water Sports,4.1,Agonda Beach,Goa
+27,F,1800,Beach,Water Sports,4.1,Agonda Beach,Goa
+28,F,1800,Beach,Water Sports,4.1,Agonda Beach,Goa
+27,F,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+27,M,1800,Beach,Water Sports,4.1,Agonda Beach,Goa
+28,M,1800,Beach,Water Sports,4.1,Agonda Beach,Goa
+27,F,1700,Beach,Water Sports,4.1,Agonda Beach,Goa
+26,F,1400,Beach,Adventure,4.1,Anjuna Beach,Goa
+26,F,1300,Beach,Adventure,4.1,Ashwem Beach,Goa
+31,M,2000,Beach,Cuisine,4.1,Baga Beach,Goa
+31,M,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+27,M,1400,Beach,Relaxation,4.1,Baga Beach,Goa
+30,M,1800,Beach,Cuisine,4.1,Baga Beach,Goa
+30,M,2200,Beach,Cuisine,4.1,Baga Beach,Goa
+31,F,1900,Beach,Cuisine,4.1,Baga Beach,Goa
+30,F,2000,Beach,Cuisine,4.1,Baga Beach,Goa
+31,M,2200,Beach,Cuisine,4.1,Baga Beach,Goa
+31,F,1700,Beach,Cuisine,4.1,Baga Beach,Goa
+31,M,1800,Beach,Cuisine,4.1,Baga Beach,Goa
+30,F,1900,Beach,Cuisine,4.1,Baga Beach,Goa
+30,M,2200,Beach,Cuisine,4.1,Baga Beach,Goa
+31,M,1800,Beach,Cuisine,4.1,Baga Beach,Goa
+30,M,1900,Beach,Cuisine,4.1,Baga Beach,Goa
+30,M,1900,Beach,Cuisine,4.1,Baga Beach,Goa
+30,F,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+32,F,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+31,F,1700,Beach,Nightlife,4.1,Baga Beach,Goa
+32,M,1800,Beach,Nightlife,4.1,Baga Beach,Goa
+32,M,1900,Beach,Nightlife,4.1,Baga Beach,Goa
+30,F,1700,Beach,Nightlife,4.1,Baga Beach,Goa
+31,F,1900,Beach,Nightlife,4.1,Baga Beach,Goa
+32,M,1900,Beach,Nightlife,4.1,Baga Beach,Goa
+32,F,1700,Beach,Nightlife,4.1,Baga Beach,Goa
+31,F,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+32,M,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+30,F,2000,Beach,Nightlife,4.1,Baga Beach,Goa
+26,M,1500,Beach,Relaxation,4.1,Baga Beach,Goa
+26,M,1500,Beach,Relaxation,4.1,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.1,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.1,Baga Beach,Goa
+27,F,1400,Beach,Relaxation,4.1,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.1,Baga Beach,Goa
+26,F,1400,Beach,Relaxation,4.1,Baga Beach,Goa
+26,M,1400,Beach,Relaxation,4.1,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.1,Benaulim Beach,Goa
+30,M,1200,Beach,Adventure,4.1,Butterfly Beach,Goa
+28,F,1200,Beach,Adventure,4.1,Butterfly Beach,Goa
+29,F,1200,Beach,Adventure,4.1,Butterfly Beach,Goa
+29,M,1900,Beach,Nightlife,4.1,Butterfly Beach,Goa
+29,F,1600,Beach,Shopping,4.1,Calangute Beach,Goa
+28,M,1700,Beach,Shopping,4.1,Calangute Beach,Goa
+29,F,1700,Beach,Shopping,4.1,Calangute Beach,Goa
+29,F,1400,Beach,Adventure,4.1,Candolim Beach,Goa
+31,M,2000,Beach,Cuisine,4.1,Candolim Beach,Goa
+31,M,2000,Beach,Nightlife,4.1,Candolim Beach,Goa
+31,M,2000,Beach,Cuisine,4.1,Candolim Beach,Goa
+30,M,2000,Beach,Nightlife,4.1,Candolim Beach,Goa
+31,M,1900,Beach,Shopping,4.1,Candolim Beach,Goa
+28,F,1600,Beach,Water Sports,4.1,Candolim Beach,Goa
+27,M,1500,Beach,Relaxation,4.1,Candolim Beach,Goa
+27,F,1700,Beach,Water Sports,4.1,Candolim Beach,Goa
+28,F,1600,Beach,Water Sports,4.1,Candolim Beach,Goa
+28,M,1600,Beach,Water Sports,4.1,Candolim Beach,Goa
+28,M,1700,Beach,Water Sports,4.1,Candolim Beach,Goa
+28,M,1700,Beach,Water Sports,4.1,Candolim Beach,Goa
+27,F,1600,Beach,Water Sports,4.1,Candolim Beach,Goa
+28,F,1500,Beach,Shopping,4.1,Candolim Beach,Goa
+30,M,1900,Beach,Shopping,4.1,Candolim Beach,Goa
+32,F,2000,Beach,Cuisine,4.1,Candolim Beach,Goa
+31,F,2100,Beach,Cuisine,4.1,Candolim Beach,Goa
+32,F,2000,Beach,Cuisine,4.1,Candolim Beach,Goa
+29,M,1100,Beach,Adventure,4.1,Candolim Beach,Goa
+28,F,1400,Beach,Adventure,4.1,Candolim Beach,Goa
+30,F,2200,Beach,Cuisine,4.1,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.1,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.1,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.1,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.1,Miramar Beach,Goa
+30,M,1900,Beach,Cuisine,4.1,Vagator Beach,Goa
+31,M,1500,Beach,Nightlife,4.0,Agonda Beach,Goa
+28,F,1700,Beach,Water Sports,4.0,Agonda Beach,Goa
+28,M,1700,Beach,Water Sports,4.0,Agonda Beach,Goa
+27,F,1800,Beach,Water Sports,4.0,Agonda Beach,Goa
+27,M,1700,Beach,Water Sports,4.0,Agonda Beach,Goa
+28,F,1800,Beach,Water Sports,4.0,Agonda Beach,Goa
+27,M,1700,Beach,Water Sports,4.0,Agonda Beach,Goa
+27,M,1800,Beach,Water Sports,4.0,Agonda Beach,Goa
+27,F,1800,Beach,Cuisine,4.0,Anjuna Beach,Goa
+29,F,1900,Beach,Nightlife,4.0,Anjuna Beach,Goa
+28,F,1800,Beach,Shopping,4.0,Anjuna Beach,Goa
+34,M,1800,Beach,Shopping,4.0,Arambol Beach,Goa
+33,M,1800,Beach,Nightlife,4.0,Ashwem Beach,Goa
+33,M,1800,Beach,Nightlife,4.0,Ashwem Beach,Goa
+33,M,1800,Beach,Nightlife,4.0,Ashwem Beach,Goa
+33,M,1800,Beach,Nightlife,4.0,Ashwem Beach,Goa
+31,M,2200,Beach,Cuisine,4.0,Baga Beach,Goa
+30,F,1700,Beach,Shopping,4.0,Baga Beach,Goa
+30,F,1700,Beach,Cuisine,4.0,Baga Beach,Goa
+31,M,1900,Beach,Cuisine,4.0,Baga Beach,Goa
+31,F,1900,Beach,Cuisine,4.0,Baga Beach,Goa
+30,M,1900,Beach,Cuisine,4.0,Baga Beach,Goa
+31,M,2100,Beach,Cuisine,4.0,Baga Beach,Goa
+31,F,1700,Beach,Cuisine,4.0,Baga Beach,Goa
+30,M,2100,Beach,Cuisine,4.0,Baga Beach,Goa
+31,F,1900,Beach,Cuisine,4.0,Baga Beach,Goa
+31,F,2100,Beach,Cuisine,4.0,Baga Beach,Goa
+30,F,1800,Beach,Cuisine,4.0,Baga Beach,Goa
+30,M,1900,Beach,Cuisine,4.0,Baga Beach,Goa
+30,F,1900,Beach,Nightlife,4.0,Baga Beach,Goa
+31,M,2000,Beach,Nightlife,4.0,Baga Beach,Goa
+30,M,1800,Beach,Nightlife,4.0,Baga Beach,Goa
+30,F,1800,Beach,Nightlife,4.0,Baga Beach,Goa
+26,M,1500,Beach,Relaxation,4.0,Baga Beach,Goa
+27,F,1400,Beach,Relaxation,4.0,Baga Beach,Goa
+27,F,1400,Beach,Relaxation,4.0,Baga Beach,Goa
+27,M,1400,Beach,Relaxation,4.0,Baga Beach,Goa
+26,F,1400,Beach,Relaxation,4.0,Baga Beach,Goa
+26,F,1500,Beach,Relaxation,4.0,Baga Beach,Goa
+30,M,2200,Beach,Shopping,4.0,Baga Beach,Goa
+32,M,1900,Beach,Shopping,4.0,Baga Beach,Goa
+35,M,2000,Beach,Nightlife,4.0,Benaulim Beach,Goa
+34,F,1900,Beach,Water Sports,4.0,Benaulim Beach,Goa
+27,F,1500,Beach,Relaxation,4.0,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,4.0,Benaulim Beach,Goa
+26,F,1500,Beach,Relaxation,4.0,Benaulim Beach,Goa
+27,M,1700,Beach,Relaxation,4.0,Benaulim Beach,Goa
+27,M,1700,Beach,Relaxation,4.0,Benaulim Beach,Goa
+27,M,1500,Beach,Relaxation,4.0,Benaulim Beach,Goa
+27,F,1600,Beach,Relaxation,4.0,Benaulim Beach,Goa
+34,M,1300,Beach,Adventure,4.0,Butterfly Beach,Goa
+33,M,1800,Beach,Cuisine,4.0,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,4.0,Butterfly Beach,Goa
+34,M,1300,Beach,Adventure,4.0,Butterfly Beach,Goa
+28,M,1300,Beach,Adventure,4.0,Butterfly Beach,Goa
+34,F,1200,Beach,Adventure,4.0,Butterfly Beach,Goa
+34,M,1200,Beach,Adventure,4.0,Butterfly Beach,Goa
+28,F,1900,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,F,1800,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,F,1900,Beach,Nightlife,4.0,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,4.0,Butterfly Beach,Goa
+29,M,1800,Beach,Nightlife,4.0,Butterfly Beach,Goa
+33,M,2100,Beach,Cuisine,4.0,Calangute Beach,Goa
+27,F,1600,Beach,Water Sports,4.0,Calangute Beach,Goa
+24,M,1600,Beach,Cuisine,4.0,Calangute Beach,Goa
+28,F,1800,Beach,Cuisine,4.0,Calangute Beach,Goa
+32,F,1700,Beach,Shopping,4.0,Calangute Beach,Goa
+30,M,2100,Beach,Shopping,4.0,Calangute Beach,Goa
+31,M,1800,Beach,Shopping,4.0,Calangute Beach,Goa
+31,M,1700,Beach,Shopping,4.0,Calangute Beach,Goa
+32,F,1600,Beach,Shopping,4.0,Calangute Beach,Goa
+27,M,1800,Beach,Shopping,4.0,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,4.0,Calangute Beach,Goa
+27,M,1500,Beach,Water Sports,4.0,Calangute Beach,Goa
+27,M,1500,Beach,Water Sports,4.0,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,4.0,Calangute Beach,Goa
+27,F,1500,Beach,Water Sports,4.0,Calangute Beach,Goa
+31,F,1700,Beach,Shopping,4.0,Candolim Beach,Goa
+29,F,1600,Beach,Shopping,4.0,Candolim Beach,Goa
+28,M,1800,Beach,Shopping,4.0,Candolim Beach,Goa
+29,M,1800,Beach,Shopping,4.0,Candolim Beach,Goa
+30,M,1600,Beach,Shopping,4.0,Candolim Beach,Goa
+31,M,1700,Beach,Shopping,4.0,Candolim Beach,Goa
+29,F,1500,Beach,Shopping,4.0,Candolim Beach,Goa
+31,M,1700,Beach,Shopping,4.0,Candolim Beach,Goa
+27,F,1700,Beach,Nightlife,4.0,Candolim Beach,Goa
+29,M,1800,Beach,Nightlife,4.0,Candolim Beach,Goa
+30,F,1000,Beach,Adventure,4.0,Candolim Beach,Goa
+28,M,1000,Beach,Adventure,4.0,Candolim Beach,Goa
+33,M,2300,Beach,Shopping,4.0,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+30,M,2000,Beach,Shopping,4.0,Miramar Beach,Goa
+31,M,2000,Beach,Nightlife,4.8,Mobor Beach,Goa
+33,M,1700,Beach,Shopping,4.0,Mobor Beach,Goa
+33,M,1700,Beach,Cuisine,4.0,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.0,Mobor Beach,Goa
+29,M,1700,Beach,Nightlife,4.0,Morjim Beach,Goa
+29,M,1700,Beach,Cuisine,4.0,Morjim Beach,Goa
+30,M,1900,Beach,Nightlife,4.0,Vagator Beach,Goa
+30,M,1900,Beach,Cuisine,4.0,Vagator Beach,Goa
+31,M,2000,Beach,Cuisine,4.3,Vagator Beach,Goa
+35,M,1300,Beach,Adventure,4.0,Varca Beach,Goa
+32,F,1800,Beach,Nightlife,3.9,Agonda Beach,Goa
+32,F,1800,Beach,Cuisine,3.9,Agonda Beach,Goa
+31,M,1500,Beach,Cuisine,3.9,Agonda Beach,Goa
+32,F,1700,Beach,Cuisine,3.9,Agonda Beach,Goa
+32,F,1900,Beach,Nightlife,3.9,Agonda Beach,Goa
+28,F,1700,Beach,Nightlife,3.9,Agonda Beach,Goa
+30,M,1700,Beach,Nightlife,3.9,Agonda Beach,Goa
+30,F,1600,Beach,Nightlife,3.9,Agonda Beach,Goa
+26,M,1500,Beach,Nightlife,3.9,Agonda Beach,Goa
+29,M,1700,Beach,Shopping,3.9,Anjuna Beach,Goa
+28,F,1700,Beach,Shopping,3.9,Anjuna Beach,Goa
+29,M,1600,Beach,Shopping,3.9,Anjuna Beach,Goa
+29,F,1500,Beach,Shopping,3.9,Anjuna Beach,Goa
+28,M,1500,Beach,Shopping,3.9,Anjuna Beach,Goa
+28,M,1600,Beach,Shopping,3.9,Anjuna Beach,Goa
+29,F,1800,Beach,Cuisine,3.9,Arambol Beach,Goa
+28,F,1600,Beach,Cuisine,3.9,Arambol Beach,Goa
+26,F,1600,Beach,Cuisine,3.9,Arambol Beach,Goa
+32,M,1700,Beach,Shopping,3.9,Arambol Beach,Goa
+33,M,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+34,M,1700,Beach,Shopping,3.9,Arambol Beach,Goa
+34,F,1800,Beach,Shopping,3.9,Arambol Beach,Goa
+34,F,1800,Beach,Shopping,3.9,Arambol Beach,Goa
+32,M,1700,Beach,Shopping,3.9,Arambol Beach,Goa
+34,M,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+32,F,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+33,M,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+34,F,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+34,M,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+32,M,1800,Beach,Shopping,3.9,Arambol Beach,Goa
+32,M,1700,Beach,Shopping,3.9,Arambol Beach,Goa
+32,M,1800,Beach,Shopping,3.9,Arambol Beach,Goa
+32,M,1600,Beach,Shopping,3.9,Arambol Beach,Goa
+27,F,1600,Beach,Water Sports,3.9,Arambol Beach,Goa
+28,M,1800,Beach,Water Sports,3.9,Arambol Beach,Goa
+28,F,1700,Beach,Water Sports,3.9,Arambol Beach,Goa
+27,M,1500,Beach,Water Sports,3.9,Arambol Beach,Goa
+28,F,1600,Beach,Water Sports,3.9,Arambol Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Arambol Beach,Goa
+27,F,1700,Beach,Water Sports,3.9,Arambol Beach,Goa
+27,M,1500,Beach,Water Sports,3.9,Arambol Beach,Goa
+28,M,1800,Beach,Water Sports,3.9,Arambol Beach,Goa
+28,M,1700,Beach,Cuisine,3.9,Ashwem Beach,Goa
+32,M,1800,Beach,Water Sports,3.9,Ashwem Beach,Goa
+33,F,2200,Beach,Water Sports,3.9,Ashwem Beach,Goa
+32,M,2100,Beach,Water Sports,3.9,Ashwem Beach,Goa
+32,F,2000,Beach,Water Sports,3.9,Ashwem Beach,Goa
+26,M,1400,Beach,Relaxation,3.9,Baga Beach,Goa
+32,F,2200,Beach,Shopping,3.9,Baga Beach,Goa
+30,F,2200,Beach,Shopping,3.9,Baga Beach,Goa
+32,F,1900,Beach,Shopping,3.9,Baga Beach,Goa
+32,M,1900,Beach,Shopping,3.9,Baga Beach,Goa
+32,F,2200,Beach,Shopping,3.9,Baga Beach,Goa
+30,F,2000,Beach,Shopping,3.9,Baga Beach,Goa
+27,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+27,M,1500,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,M,1700,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,M,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+26,F,1600,Beach,Relaxation,3.9,Benaulim Beach,Goa
+27,F,1500,Beach,Relaxation,3.9,Benaulim Beach,Goa
+28,M,1800,Beach,Nightlife,3.9,Butterfly Beach,Goa
+27,F,1800,Beach,Nightlife,3.9,Butterfly Beach,Goa
+27,F,1700,Beach,Nightlife,3.9,Butterfly Beach,Goa
+27,F,1700,Beach,Nightlife,3.9,Butterfly Beach,Goa
+29,M,1700,Beach,Nightlife,3.9,Butterfly Beach,Goa
+32,M,2100,Beach,Nightlife,3.9,Calangute Beach,Goa
+32,M,2100,Beach,Shopping,3.9,Calangute Beach,Goa
+32,M,2100,Beach,Cuisine,3.9,Calangute Beach,Goa
+24,F,1800,Beach,Cuisine,3.9,Calangute Beach,Goa
+29,M,2100,Beach,Shopping,3.9,Calangute Beach,Goa
+30,M,1700,Beach,Cuisine,3.9,Calangute Beach,Goa
+31,M,1800,Beach,Cuisine,3.9,Calangute Beach,Goa
+26,F,1700,Beach,Cuisine,3.9,Calangute Beach,Goa
+29,M,1900,Beach,Cuisine,3.9,Calangute Beach,Goa
+27,M,1700,Beach,Shopping,3.9,Calangute Beach,Goa
+28,F,1700,Beach,Shopping,3.9,Calangute Beach,Goa
+27,M,1700,Beach,Shopping,3.9,Calangute Beach,Goa
+31,M,1600,Beach,Shopping,3.9,Calangute Beach,Goa
+32,F,1600,Beach,Shopping,3.9,Calangute Beach,Goa
+29,M,2000,Beach,Shopping,3.9,Calangute Beach,Goa
+27,F,1500,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1500,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,F,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,F,1500,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,F,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,F,1500,Beach,Water Sports,3.9,Calangute Beach,Goa
+27,M,1500,Beach,Water Sports,3.9,Calangute Beach,Goa
+26,M,1000,Beach,Adventure,3.9,Candolim Beach,Goa
+28,F,1700,Beach,Shopping,3.9,Candolim Beach,Goa
+29,M,1900,Beach,Shopping,3.9,Candolim Beach,Goa
+29,M,1700,Beach,Nightlife,3.9,Candolim Beach,Goa
+30,M,1900,Beach,Nightlife,3.9,Candolim Beach,Goa
+30,M,1800,Beach,Nightlife,3.9,Candolim Beach,Goa
+27,F,1900,Beach,Nightlife,3.9,Candolim Beach,Goa
+30,F,1600,Beach,Nightlife,3.9,Candolim Beach,Goa
+29,M,1700,Beach,Nightlife,3.9,Candolim Beach,Goa
+28,M,1100,Beach,Adventure,3.9,Candolim Beach,Goa
+26,M,1300,Beach,Adventure,3.9,Candolim Beach,Goa
+27,M,1200,Beach,Adventure,3.9,Candolim Beach,Goa
+33,F,1600,Beach,Nightlife,3.9,Colva Beach,Goa
+30,M,1800,Beach,Nightlife,3.9,Colva Beach,Goa
+30,F,1800,Beach,Nightlife,3.9,Colva Beach,Goa
+26,F,1500,Beach,Water Sports,3.9,Miramar Beach,Goa
+32,M,1100,Beach,Adventure,3.9,Mobor Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+28,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+27,M,1500,Beach,Cuisine,3.8,Agonda Beach,Goa
+27,M,1500,Beach,Cuisine,3.8,Agonda Beach,Goa
+27,M,1500,Beach,Cuisine,3.8,Agonda Beach,Goa
+32,M,1500,Beach,Cuisine,3.8,Agonda Beach,Goa
+27,F,1700,Beach,Cuisine,3.8,Agonda Beach,Goa
+29,F,1500,Beach,Cuisine,3.8,Agonda Beach,Goa
+29,M,1800,Beach,Cuisine,3.8,Agonda Beach,Goa
+32,M,1600,Beach,Cuisine,3.8,Agonda Beach,Goa
+28,M,1600,Beach,Cuisine,3.8,Agonda Beach,Goa
+28,M,1900,Beach,Nightlife,3.8,Agonda Beach,Goa
+26,F,1800,Beach,Nightlife,3.8,Agonda Beach,Goa
+27,F,1900,Beach,Nightlife,3.8,Agonda Beach,Goa
+27,F,1500,Beach,Nightlife,3.8,Agonda Beach,Goa
+29,M,1600,Beach,Shopping,3.8,Anjuna Beach,Goa
+28,M,1500,Beach,Nightlife,3.8,Anjuna Beach,Goa
+27,F,1200,Beach,Nightlife,3.8,Anjuna Beach,Goa
+29,M,1600,Beach,Shopping,3.8,Anjuna Beach,Goa
+29,F,1700,Beach,Shopping,3.8,Anjuna Beach,Goa
+29,M,1600,Beach,Shopping,3.8,Anjuna Beach,Goa
+29,M,1800,Beach,Shopping,3.8,Anjuna Beach,Goa
+29,F,1800,Beach,Shopping,3.8,Anjuna Beach,Goa
+28,F,1600,Beach,Shopping,3.8,Anjuna Beach,Goa
+29,M,1600,Beach,Shopping,3.8,Anjuna Beach,Goa
+34,M,1700,Beach,Shopping,3.8,Arambol Beach,Goa
+27,M,1500,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1500,Beach,Water Sports,3.8,Arambol Beach,Goa
+26,F,1600,Beach,Cuisine,3.8,Arambol Beach,Goa
+27,F,1600,Beach,Cuisine,3.8,Arambol Beach,Goa
+34,M,1800,Beach,Shopping,3.8,Arambol Beach,Goa
+32,F,1800,Beach,Shopping,3.8,Arambol Beach,Goa
+32,M,1600,Beach,Shopping,3.8,Arambol Beach,Goa
+32,F,1600,Beach,Shopping,3.8,Arambol Beach,Goa
+33,F,1800,Beach,Shopping,3.8,Arambol Beach,Goa
+33,F,1700,Beach,Shopping,3.8,Arambol Beach,Goa
+33,F,1600,Beach,Shopping,3.8,Arambol Beach,Goa
+28,F,1600,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1500,Beach,Water Sports,3.8,Arambol Beach,Goa
+27,F,1700,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1800,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1600,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,F,1600,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1500,Beach,Water Sports,3.8,Arambol Beach,Goa
+27,F,1500,Beach,Water Sports,3.8,Arambol Beach,Goa
+27,M,1600,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,F,1700,Beach,Water Sports,3.8,Arambol Beach,Goa
+28,M,1700,Beach,Water Sports,3.8,Arambol Beach,Goa
+30,M,1500,Beach,Shopping,3.8,Ashwem Beach,Goa
+32,M,2200,Beach,Water Sports,3.8,Ashwem Beach,Goa
+32,F,2300,Beach,Water Sports,3.8,Ashwem Beach,Goa
+30,F,1400,Beach,Shopping,3.8,Ashwem Beach,Goa
+27,F,1800,Beach,Shopping,3.8,Ashwem Beach,Goa
+29,F,1700,Beach,Shopping,3.8,Ashwem Beach,Goa
+31,F,1700,Beach,Shopping,3.8,Ashwem Beach,Goa
+26,M,1700,Beach,Shopping,3.8,Ashwem Beach,Goa
+32,M,1400,Beach,Adventure,3.8,Baga Beach,Goa
+30,F,1700,Beach,Nightlife,3.8,Baga Beach,Goa
+31,M,1900,Beach,Shopping,3.8,Baga Beach,Goa
+32,M,2000,Beach,Shopping,3.8,Baga Beach,Goa
+35,M,2000,Beach,Shopping,3.8,Benaulim Beach,Goa
+35,M,2000,Beach,Cuisine,3.8,Benaulim Beach,Goa
+26,F,1500,Beach,Relaxation,3.8,Benaulim Beach,Goa
+27,M,1500,Beach,Relaxation,3.8,Benaulim Beach,Goa
+26,F,1500,Beach,Relaxation,3.8,Benaulim Beach,Goa
+26,M,1500,Beach,Relaxation,3.8,Benaulim Beach,Goa
+27,F,1700,Beach,Relaxation,3.8,Benaulim Beach,Goa
+27,M,1500,Beach,Relaxation,3.8,Benaulim Beach,Goa
+30,M,2000,Beach,Cuisine,3.8,Butterfly Beach,Goa
+29,F,1600,Beach,Shopping,3.8,Butterfly Beach,Goa
+28,M,1700,Beach,Shopping,3.8,Butterfly Beach,Goa
+33,F,1900,Beach,Cuisine,3.8,Butterfly Beach,Goa
+30,F,1900,Beach,Cuisine,3.8,Butterfly Beach,Goa
+30,M,1800,Beach,Cuisine,3.8,Butterfly Beach,Goa
+29,F,1900,Beach,Cuisine,3.8,Butterfly Beach,Goa
+29,F,1900,Beach,Nightlife,3.8,Butterfly Beach,Goa
+27,M,1900,Beach,Nightlife,3.8,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,3.8,Butterfly Beach,Goa
+27,F,1800,Beach,Nightlife,3.8,Butterfly Beach,Goa
+27,M,1700,Beach,Nightlife,3.8,Butterfly Beach,Goa
+28,M,1700,Beach,Nightlife,3.8,Butterfly Beach,Goa
+29,F,1600,Beach,Shopping,3.8,Butterfly Beach,Goa
+28,M,1600,Beach,Shopping,3.8,Butterfly Beach,Goa
+29,M,1800,Beach,Shopping,3.8,Butterfly Beach,Goa
+29,F,1600,Beach,Shopping,3.8,Butterfly Beach,Goa
+27,M,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+32,F,1800,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.8,Calangute Beach,Goa
+29,M,1700,Beach,Cuisine,3.8,Calangute Beach,Goa
+32,F,1400,Beach,Cuisine,3.8,Calangute Beach,Goa
+28,F,1800,Beach,Cuisine,3.8,Calangute Beach,Goa
+33,M,1300,Beach,Cuisine,3.8,Calangute Beach,Goa
+32,F,1900,Beach,Cuisine,3.8,Calangute Beach,Goa
+27,M,1900,Beach,Cuisine,3.8,Calangute Beach,Goa
+32,F,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+31,M,1600,Beach,Nightlife,3.8,Calangute Beach,Goa
+31,M,2000,Beach,Nightlife,3.8,Calangute Beach,Goa
+29,M,1800,Beach,Nightlife,3.8,Calangute Beach,Goa
+30,F,1700,Beach,Nightlife,3.8,Calangute Beach,Goa
+31,F,1800,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1700,Beach,Nightlife,3.8,Calangute Beach,Goa
+28,M,2100,Beach,Nightlife,3.8,Calangute Beach,Goa
+30,F,1700,Beach,Nightlife,3.8,Calangute Beach,Goa
+30,F,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,F,2000,Beach,Nightlife,3.8,Calangute Beach,Goa
+32,F,1500,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,M,1700,Beach,Nightlife,3.8,Calangute Beach,Goa
+32,M,2000,Beach,Nightlife,3.8,Calangute Beach,Goa
+27,F,2100,Beach,Nightlife,3.8,Calangute Beach,Goa
+29,F,1600,Beach,Nightlife,3.8,Calangute Beach,Goa
+31,F,1800,Beach,Shopping,3.8,Calangute Beach,Goa
+27,F,1600,Beach,Water Sports,3.8,Calangute Beach,Goa
+27,M,1600,Beach,Water Sports,3.8,Calangute Beach,Goa
+27,F,1600,Beach,Water Sports,3.8,Calangute Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,M,2000,Beach,Nightlife,3.8,Candolim Beach,Goa
+28,M,1700,Beach,Shopping,3.8,Candolim Beach,Goa
+28,M,1900,Beach,Shopping,3.8,Candolim Beach,Goa
+30,F,1800,Beach,Shopping,3.8,Candolim Beach,Goa
+29,F,1600,Beach,Shopping,3.8,Candolim Beach,Goa
+31,M,1700,Beach,Shopping,3.8,Candolim Beach,Goa
+29,M,1600,Beach,Shopping,3.8,Candolim Beach,Goa
+29,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,M,1700,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,F,1800,Beach,Nightlife,3.8,Candolim Beach,Goa
+28,F,1800,Beach,Nightlife,3.8,Candolim Beach,Goa
+29,M,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+28,M,1800,Beach,Nightlife,3.8,Candolim Beach,Goa
+27,M,1600,Beach,Nightlife,3.8,Candolim Beach,Goa
+28,M,1200,Beach,Adventure,3.8,Candolim Beach,Goa
+29,M,1100,Beach,Adventure,3.8,Candolim Beach,Goa
+34,F,2000,Beach,Nightlife,3.8,Colva Beach,Goa
+27,F,2000,Beach,Nightlife,3.8,Colva Beach,Goa
+27,M,2000,Beach,Nightlife,3.8,Colva Beach,Goa
+28,M,1900,Beach,Nightlife,3.8,Colva Beach,Goa
+32,M,1600,Beach,Nightlife,3.8,Colva Beach,Goa
+28,F,1600,Beach,Nightlife,3.8,Colva Beach,Goa
+27,F,1900,Beach,Nightlife,3.8,Colva Beach,Goa
+28,F,1900,Beach,Nightlife,3.8,Colva Beach,Goa
+26,M,1600,Beach,Nightlife,3.8,Colva Beach,Goa
+28,F,2100,Beach,Nightlife,3.8,Galgibaga Beach,Goa
+28,F,1200,Beach,Adventure,3.8,Miramar Beach,Goa
+27,F,1600,Beach,Cuisine,3.8,Mobor Beach,Goa
+27,F,1600,Beach,Cuisine,3.8,Mobor Beach,Goa
+29,F,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+24,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+26,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,2000,Beach,Water Sports,3.8,Palolem Beach,Goa
+26,F,1800,Beach,Shopping,4.1,Vagator Beach,Goa
+34,M,1900,Beach,Nightlife,3.8,Varca Beach,Goa
+29,M,1900,Beach,Cuisine,3.7,Agonda Beach,Goa
+31,M,1500,Beach,Cuisine,3.7,Agonda Beach,Goa
+32,F,1500,Beach,Cuisine,3.7,Agonda Beach,Goa
+31,M,1800,Beach,Cuisine,3.7,Agonda Beach,Goa
+28,F,1600,Beach,Cuisine,3.7,Agonda Beach,Goa
+32,M,1900,Beach,Cuisine,3.7,Agonda Beach,Goa
+30,F,1700,Beach,Cuisine,3.7,Agonda Beach,Goa
+32,M,1700,Beach,Cuisine,3.7,Agonda Beach,Goa
+28,F,1800,Beach,Nightlife,3.7,Agonda Beach,Goa
+27,M,1700,Beach,Nightlife,3.7,Agonda Beach,Goa
+29,F,1600,Beach,Nightlife,3.7,Agonda Beach,Goa
+26,M,1800,Beach,Nightlife,3.7,Agonda Beach,Goa
+27,M,1700,Beach,Nightlife,3.7,Agonda Beach,Goa
+29,F,1500,Beach,Nightlife,3.7,Anjuna Beach,Goa
+29,F,1500,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,F,1500,Beach,Cuisine,3.7,Anjuna Beach,Goa
+28,F,1200,Beach,Nightlife,3.7,Anjuna Beach,Goa
+26,M,1300,Beach,Nightlife,3.7,Anjuna Beach,Goa
+28,M,1200,Beach,Nightlife,3.7,Anjuna Beach,Goa
+29,M,1500,Beach,Nightlife,3.7,Anjuna Beach,Goa
+25,M,1500,Beach,Nightlife,3.7,Anjuna Beach,Goa
+25,F,1200,Beach,Nightlife,3.7,Anjuna Beach,Goa
+27,M,1400,Beach,Nightlife,3.7,Anjuna Beach,Goa
+29,F,1500,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,M,1800,Beach,Shopping,3.7,Anjuna Beach,Goa
+28,M,1700,Beach,Shopping,3.7,Anjuna Beach,Goa
+28,M,1800,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,F,1600,Beach,Shopping,3.7,Anjuna Beach,Goa
+28,M,1600,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,F,1600,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,M,1800,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,F,1700,Beach,Shopping,3.7,Anjuna Beach,Goa
+29,F,1700,Beach,Cuisine,3.7,Arambol Beach,Goa
+26,F,1800,Beach,Cuisine,3.7,Arambol Beach,Goa
+32,M,1800,Beach,Water Sports,3.7,Ashwem Beach,Goa
+33,F,1900,Beach,Water Sports,3.7,Ashwem Beach,Goa
+32,M,2300,Beach,Water Sports,3.7,Ashwem Beach,Goa
+33,F,2100,Beach,Water Sports,3.7,Ashwem Beach,Goa
+33,F,1900,Beach,Water Sports,3.7,Ashwem Beach,Goa
+31,F,2000,Beach,Shopping,3.7,Ashwem Beach,Goa
+31,M,1500,Beach,Shopping,3.7,Ashwem Beach,Goa
+30,M,1400,Beach,Shopping,3.7,Ashwem Beach,Goa
+31,M,2100,Beach,Shopping,3.7,Ashwem Beach,Goa
+27,F,1900,Beach,Shopping,3.7,Ashwem Beach,Goa
+29,F,1900,Beach,Shopping,3.7,Ashwem Beach,Goa
+28,F,2100,Beach,Shopping,3.7,Ashwem Beach,Goa
+32,M,1900,Beach,Shopping,3.7,Baga Beach,Goa
+32,F,1900,Beach,Shopping,3.7,Baga Beach,Goa
+30,M,2100,Beach,Shopping,3.7,Baga Beach,Goa
+31,F,1800,Beach,Cuisine,3.7,Butterfly Beach,Goa
+31,F,2000,Beach,Cuisine,3.7,Butterfly Beach,Goa
+30,F,1900,Beach,Cuisine,3.7,Butterfly Beach,Goa
+33,F,1900,Beach,Cuisine,3.7,Butterfly Beach,Goa
+32,M,2000,Beach,Cuisine,3.7,Butterfly Beach,Goa
+32,M,1900,Beach,Cuisine,3.7,Butterfly Beach,Goa
+28,F,2000,Beach,Cuisine,3.7,Butterfly Beach,Goa
+29,M,2000,Beach,Cuisine,3.7,Butterfly Beach,Goa
+32,M,1800,Beach,Cuisine,3.7,Butterfly Beach,Goa
+32,M,2000,Beach,Cuisine,3.7,Butterfly Beach,Goa
+32,M,1800,Beach,Cuisine,3.7,Butterfly Beach,Goa
+28,M,1700,Beach,Shopping,3.7,Butterfly Beach,Goa
+28,F,1600,Beach,Shopping,3.7,Butterfly Beach,Goa
+28,M,1700,Beach,Shopping,3.7,Butterfly Beach,Goa
+29,F,1800,Beach,Shopping,3.7,Butterfly Beach,Goa
+29,M,1600,Beach,Shopping,3.7,Butterfly Beach,Goa
+29,M,1800,Beach,Shopping,3.7,Butterfly Beach,Goa
+28,F,1700,Beach,Shopping,3.7,Butterfly Beach,Goa
+29,F,1700,Beach,Shopping,3.7,Butterfly Beach,Goa
+28,F,1700,Beach,Shopping,3.7,Butterfly Beach,Goa
+28,F,1600,Beach,Shopping,3.7,Butterfly Beach,Goa
+29,F,1100,Beach,Adventure,3.7,Calangute Beach,Goa
+30,M,1300,Beach,Cuisine,3.7,Calangute Beach,Goa
+26,F,1900,Beach,Cuisine,3.7,Calangute Beach,Goa
+26,M,1600,Beach,Cuisine,3.7,Calangute Beach,Goa
+27,M,1500,Beach,Cuisine,3.7,Calangute Beach,Goa
+27,F,1400,Beach,Cuisine,3.7,Calangute Beach,Goa
+27,F,1800,Beach,Cuisine,3.7,Calangute Beach,Goa
+28,F,1500,Beach,Shopping,3.7,Candolim Beach,Goa
+29,F,1800,Beach,Shopping,3.7,Candolim Beach,Goa
+28,F,1800,Beach,Shopping,3.7,Candolim Beach,Goa
+30,F,1500,Beach,Adventure,3.7,Candolim Beach,Goa
+29,M,1100,Beach,Adventure,3.7,Candolim Beach,Goa
+28,M,1600,Beach,Cuisine,3.7,Colva Beach,Goa
+28,F,1700,Beach,Shopping,3.7,Colva Beach,Goa
+34,F,1900,Beach,Shopping,3.7,Colva Beach,Goa
+32,F,1900,Beach,Nightlife,3.7,Colva Beach,Goa
+32,F,1700,Beach,Nightlife,3.7,Colva Beach,Goa
+30,F,1900,Beach,Nightlife,3.7,Colva Beach,Goa
+30,M,1800,Beach,Shopping,3.7,Colva Beach,Goa
+32,F,1700,Beach,Shopping,3.7,Colva Beach,Goa
+31,M,1800,Beach,Shopping,3.7,Colva Beach,Goa
+33,M,1900,Beach,Shopping,3.7,Colva Beach,Goa
+28,F,2000,Beach,Shopping,3.7,Colva Beach,Goa
+27,F,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+28,F,1500,Beach,Shopping,3.7,Miramar Beach,Goa
+31,M,1000,Beach,Adventure,3.7,Morjim Beach,Goa
+30,M,2000,Beach,Relaxation,3.7,Morjim Beach,Goa
+26,F,1700,Beach,Adventure,3.7,Morjim Beach,Goa
+28,F,1900,Beach,Relaxation,3.7,Morjim Beach,Goa
+26,M,1500,Beach,Cuisine,3.7,Palolem Beach,Goa
+28,M,1600,Beach,Nightlife,3.7,Vagator Beach,Goa
+28,M,1600,Beach,Nightlife,3.7,Vagator Beach,Goa
+28,M,1600,Beach,Nightlife,3.7,Vagator Beach,Goa
+29,M,1900,Beach,Nightlife,4.0,Vagator Beach,Goa
+30,M,1300,Beach,Adventure,3.7,Varca Beach,Goa
+24,F,1300,Beach,Nightlife,3.6,Agonda Beach,Goa
+24,F,1300,Beach,Nightlife,3.6,Agonda Beach,Goa
+24,F,1300,Beach,Nightlife,3.6,Agonda Beach,Goa
+24,F,1300,Beach,Nightlife,3.6,Agonda Beach,Goa
+30,F,1800,Beach,Cuisine,3.6,Agonda Beach,Goa
+27,F,1600,Beach,Nightlife,3.6,Agonda Beach,Goa
+28,F,1700,Beach,Nightlife,3.6,Agonda Beach,Goa
+29,M,1800,Beach,Nightlife,3.6,Agonda Beach,Goa
+27,M,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,M,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,M,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,M,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,M,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,F,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,F,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,M,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,M,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+28,F,1600,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,F,1700,Beach,Relaxation,3.6,Agonda Beach,Goa
+27,M,1300,Beach,Nightlife,3.6,Anjuna Beach,Goa
+26,M,1200,Beach,Nightlife,3.6,Anjuna Beach,Goa
+27,M,1300,Beach,Nightlife,3.6,Anjuna Beach,Goa
+29,M,1300,Beach,Nightlife,3.6,Anjuna Beach,Goa
+26,M,1500,Beach,Nightlife,3.6,Anjuna Beach,Goa
+34,F,1900,Beach,Relaxation,3.6,Arambol Beach,Goa
+29,F,1700,Beach,Cuisine,3.6,Arambol Beach,Goa
+29,F,1800,Beach,Cuisine,3.6,Arambol Beach,Goa
+26,F,1800,Beach,Cuisine,3.6,Arambol Beach,Goa
+26,F,1800,Beach,Cuisine,3.6,Arambol Beach,Goa
+29,F,1800,Beach,Cuisine,3.6,Arambol Beach,Goa
+34,M,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+33,M,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+33,F,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+33,F,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+34,M,2000,Beach,Relaxation,3.6,Arambol Beach,Goa
+27,F,1000,Beach,Adventure,3.6,Ashwem Beach,Goa
+26,F,1400,Beach,Shopping,3.6,Ashwem Beach,Goa
+33,M,2300,Beach,Water Sports,3.6,Ashwem Beach,Goa
+33,M,1900,Beach,Water Sports,3.6,Ashwem Beach,Goa
+32,M,2300,Beach,Water Sports,3.6,Ashwem Beach,Goa
+32,M,1800,Beach,Water Sports,3.6,Ashwem Beach,Goa
+30,M,2000,Beach,Shopping,3.6,Ashwem Beach,Goa
+26,F,1400,Beach,Shopping,3.6,Ashwem Beach,Goa
+29,F,2100,Beach,Shopping,3.6,Ashwem Beach,Goa
+30,F,1500,Beach,Shopping,3.6,Ashwem Beach,Goa
+31,F,1700,Beach,Shopping,3.6,Ashwem Beach,Goa
+28,M,1500,Beach,Shopping,3.6,Ashwem Beach,Goa
+30,M,1500,Beach,Shopping,3.6,Ashwem Beach,Goa
+27,M,2100,Beach,Shopping,3.6,Ashwem Beach,Goa
+30,F,1400,Beach,Shopping,3.6,Ashwem Beach,Goa
+27,M,1000,Beach,Adventure,3.6,Ashwem Beach,Goa
+30,F,1200,Beach,Adventure,3.6,Ashwem Beach,Goa
+27,M,1300,Beach,Adventure,3.6,Ashwem Beach,Goa
+30,M,1100,Beach,Adventure,3.6,Ashwem Beach,Goa
+28,M,1000,Beach,Adventure,3.6,Ashwem Beach,Goa
+27,F,1000,Beach,Adventure,3.6,Ashwem Beach,Goa
+27,M,1200,Beach,Adventure,3.6,Ashwem Beach,Goa
+29,F,1400,Beach,Adventure,3.6,Ashwem Beach,Goa
+30,M,1100,Beach,Adventure,3.6,Ashwem Beach,Goa
+29,M,1200,Beach,Adventure,3.6,Ashwem Beach,Goa
+29,F,1300,Beach,Adventure,3.6,Ashwem Beach,Goa
+33,F,1800,Beach,Relaxation,3.6,Ashwem Beach,Goa
+33,M,1800,Beach,Relaxation,3.6,Ashwem Beach,Goa
+32,M,1800,Beach,Relaxation,3.6,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.6,Ashwem Beach,Goa
+27,F,1500,Beach,Shopping,3.6,Baga Beach,Goa
+30,F,2200,Beach,Shopping,3.6,Baga Beach,Goa
+26,F,1400,Beach,Cuisine,3.6,Benaulim Beach,Goa
+28,F,1800,Beach,Shopping,3.6,Butterfly Beach,Goa
+28,F,1800,Beach,Cuisine,3.6,Butterfly Beach,Goa
+29,M,1600,Beach,Water Sports,3.6,Butterfly Beach,Goa
+32,F,1800,Beach,Cuisine,3.6,Butterfly Beach,Goa
+29,M,1700,Beach,Shopping,3.6,Butterfly Beach,Goa
+29,F,1700,Beach,Shopping,3.6,Butterfly Beach,Goa
+29,F,1700,Beach,Shopping,3.6,Butterfly Beach,Goa
+28,M,1700,Beach,Shopping,3.6,Butterfly Beach,Goa
+28,M,1600,Beach,Shopping,3.6,Butterfly Beach,Goa
+29,M,1600,Beach,Water Sports,3.6,Butterfly Beach,Goa
+29,M,1600,Beach,Water Sports,3.6,Butterfly Beach,Goa
+30,M,1600,Beach,Water Sports,3.6,Butterfly Beach,Goa
+29,M,1800,Beach,Water Sports,3.6,Butterfly Beach,Goa
+29,M,1600,Beach,Water Sports,3.6,Butterfly Beach,Goa
+26,M,1100,Beach,Adventure,3.6,Candolim Beach,Goa
+26,M,1600,Beach,Nightlife,3.6,Colva Beach,Goa
+28,F,1700,Beach,Nightlife,3.6,Colva Beach,Goa
+32,M,1600,Beach,Nightlife,3.6,Colva Beach,Goa
+26,F,1800,Beach,Nightlife,3.6,Colva Beach,Goa
+28,F,1700,Beach,Nightlife,3.6,Colva Beach,Goa
+33,M,1600,Beach,Nightlife,3.6,Colva Beach,Goa
+32,M,2000,Beach,Shopping,3.6,Colva Beach,Goa
+34,M,1700,Beach,Shopping,3.6,Colva Beach,Goa
+28,F,1700,Beach,Shopping,3.6,Colva Beach,Goa
+33,F,1900,Beach,Shopping,3.6,Colva Beach,Goa
+28,F,2000,Beach,Shopping,3.6,Colva Beach,Goa
+31,M,2000,Beach,Shopping,3.6,Colva Beach,Goa
+34,F,1700,Beach,Shopping,3.6,Colva Beach,Goa
+31,F,1800,Beach,Shopping,3.6,Colva Beach,Goa
+34,F,1800,Beach,Shopping,3.6,Colva Beach,Goa
+32,F,1400,Beach,Adventure,3.6,Galgibaga Beach,Goa
+27,F,1700,Beach,Shopping,3.6,Galgibaga Beach,Goa
+33,F,1600,Beach,Nightlife,3.6,Majorda Beach,Goa
+33,F,1600,Beach,Cuisine,3.6,Majorda Beach,Goa
+26,M,1800,Beach,Water Sports,3.8,Miramar Beach,Goa
+31,M,1200,Beach,Adventure,3.6,Mobor Beach,Goa
+31,M,1000,Beach,Adventure,3.6,Mobor Beach,Goa
+30,F,1200,Beach,Adventure,3.6,Mobor Beach,Goa
+33,F,1400,Beach,Adventure,3.6,Palolem Beach,Goa
+34,M,1300,Beach,Adventure,3.6,Varca Beach,Goa
+27,F,1600,Beach,Relaxation,3.5,Agonda Beach,Goa
+28,M,1600,Beach,Relaxation,3.5,Agonda Beach,Goa
+28,F,1600,Beach,Relaxation,3.5,Agonda Beach,Goa
+27,M,1700,Beach,Relaxation,3.5,Agonda Beach,Goa
+27,F,1600,Beach,Relaxation,3.5,Agonda Beach,Goa
+28,M,1600,Beach,Relaxation,3.5,Agonda Beach,Goa
+25,M,1200,Beach,Nightlife,3.5,Anjuna Beach,Goa
+25,M,1200,Beach,Nightlife,3.5,Anjuna Beach,Goa
+25,M,1200,Beach,Nightlife,3.5,Anjuna Beach,Goa
+25,M,1200,Beach,Nightlife,3.5,Anjuna Beach,Goa
+26,F,1300,Beach,Nightlife,3.5,Anjuna Beach,Goa
+25,M,1300,Beach,Nightlife,3.5,Anjuna Beach,Goa
+26,F,1600,Beach,Cuisine,3.5,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.5,Arambol Beach,Goa
+33,M,2000,Beach,Relaxation,3.5,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.5,Arambol Beach,Goa
+34,M,1900,Beach,Relaxation,3.5,Arambol Beach,Goa
+33,F,1900,Beach,Relaxation,3.5,Arambol Beach,Goa
+33,F,1900,Beach,Relaxation,3.5,Arambol Beach,Goa
+30,F,1400,Beach,Adventure,3.5,Ashwem Beach,Goa
+29,M,1000,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,F,1800,Beach,Nightlife,3.5,Ashwem Beach,Goa
+27,F,1800,Beach,Cuisine,3.5,Ashwem Beach,Goa
+28,F,1600,Beach,Cuisine,3.5,Ashwem Beach,Goa
+33,M,1900,Beach,Water Sports,3.5,Ashwem Beach,Goa
+32,M,2000,Beach,Water Sports,3.5,Ashwem Beach,Goa
+33,M,1800,Beach,Water Sports,3.5,Ashwem Beach,Goa
+32,M,2000,Beach,Water Sports,3.5,Ashwem Beach,Goa
+32,M,1800,Beach,Water Sports,3.5,Ashwem Beach,Goa
+32,F,2000,Beach,Water Sports,3.5,Ashwem Beach,Goa
+27,F,1300,Beach,Adventure,3.5,Ashwem Beach,Goa
+29,M,1200,Beach,Adventure,3.5,Ashwem Beach,Goa
+30,M,1000,Beach,Adventure,3.5,Ashwem Beach,Goa
+30,M,1200,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,M,1300,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,F,1300,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,F,1100,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,F,1400,Beach,Adventure,3.5,Ashwem Beach,Goa
+27,M,1800,Beach,Cuisine,3.5,Ashwem Beach,Goa
+28,M,1800,Beach,Cuisine,3.5,Ashwem Beach,Goa
+27,F,1600,Beach,Cuisine,3.5,Ashwem Beach,Goa
+27,M,1700,Beach,Cuisine,3.5,Ashwem Beach,Goa
+33,F,1900,Beach,Relaxation,3.5,Ashwem Beach,Goa
+33,F,1900,Beach,Relaxation,3.5,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.5,Ashwem Beach,Goa
+33,M,1800,Beach,Relaxation,3.5,Ashwem Beach,Goa
+32,M,1900,Beach,Relaxation,3.5,Ashwem Beach,Goa
+33,M,1800,Beach,Relaxation,3.5,Ashwem Beach,Goa
+33,F,1900,Beach,Relaxation,3.5,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.5,Ashwem Beach,Goa
+27,M,1800,Beach,Cuisine,3.5,Benaulim Beach,Goa
+28,F,1800,Beach,Nightlife,3.5,Butterfly Beach,Goa
+30,M,1600,Beach,Water Sports,3.5,Butterfly Beach,Goa
+30,F,1800,Beach,Water Sports,3.5,Butterfly Beach,Goa
+30,M,1800,Beach,Water Sports,3.5,Butterfly Beach,Goa
+29,M,1800,Beach,Water Sports,3.5,Butterfly Beach,Goa
+30,F,1700,Beach,Water Sports,3.5,Butterfly Beach,Goa
+29,M,1700,Beach,Water Sports,3.5,Butterfly Beach,Goa
+26,F,1200,Beach,Adventure,3.5,Candolim Beach,Goa
+30,M,1400,Beach,Adventure,3.5,Candolim Beach,Goa
+27,M,1000,Beach,Adventure,3.5,Candolim Beach,Goa
+34,M,2000,Beach,Shopping,3.5,Colva Beach,Goa
+34,M,2000,Beach,Cuisine,3.5,Colva Beach,Goa
+35,F,1600,Beach,Cuisine,3.5,Colva Beach,Goa
+35,F,2000,Beach,Cuisine,3.5,Colva Beach,Goa
+34,F,1800,Beach,Cuisine,3.5,Colva Beach,Goa
+30,F,2000,Beach,Shopping,3.5,Colva Beach,Goa
+33,F,1800,Beach,Shopping,3.5,Colva Beach,Goa
+32,M,1800,Beach,Shopping,3.5,Colva Beach,Goa
+28,M,2000,Beach,Shopping,3.5,Colva Beach,Goa
+29,M,1900,Beach,Shopping,3.5,Colva Beach,Goa
+27,F,1300,Beach,Adventure,3.5,Galgibaga Beach,Goa
+33,F,1200,Beach,Adventure,3.5,Majorda Beach,Goa
+31,M,2100,Beach,Nightlife,4.2,Miramar Beach,Goa
+26,M,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,1000,Beach,Adventure,3.5,Varca Beach,Goa
+25,F,1400,Beach,Nightlife,3.5,Varca Beach,Goa
+25,F,1400,Beach,Shopping,3.5,Varca Beach,Goa
+30,M,1500,Beach,Shopping,3.5,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.5,Varca Beach,Goa
+29,F,1400,Beach,Adventure,3.4,Anjuna Beach,Goa
+32,M,1300,Beach,Adventure,3.4,Arambol Beach,Goa
+29,F,1800,Beach,Cuisine,3.4,Arambol Beach,Goa
+29,F,1700,Beach,Cuisine,3.4,Arambol Beach,Goa
+28,F,1700,Beach,Cuisine,3.4,Arambol Beach,Goa
+29,F,1700,Beach,Cuisine,3.4,Arambol Beach,Goa
+26,F,1800,Beach,Cuisine,3.4,Arambol Beach,Goa
+26,F,1800,Beach,Cuisine,3.4,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.4,Arambol Beach,Goa
+34,M,1900,Beach,Relaxation,3.4,Arambol Beach,Goa
+34,M,1900,Beach,Relaxation,3.4,Arambol Beach,Goa
+33,M,2000,Beach,Relaxation,3.4,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.4,Arambol Beach,Goa
+33,M,1900,Beach,Relaxation,3.4,Arambol Beach,Goa
+33,F,2300,Beach,Water Sports,3.4,Ashwem Beach,Goa
+33,M,2200,Beach,Water Sports,3.4,Ashwem Beach,Goa
+32,M,2300,Beach,Water Sports,3.4,Ashwem Beach,Goa
+33,F,1800,Beach,Water Sports,3.4,Ashwem Beach,Goa
+28,F,1600,Beach,Cuisine,3.4,Ashwem Beach,Goa
+27,F,1700,Beach,Cuisine,3.4,Ashwem Beach,Goa
+28,F,1700,Beach,Cuisine,3.4,Ashwem Beach,Goa
+27,F,1600,Beach,Cuisine,3.4,Ashwem Beach,Goa
+27,F,1700,Beach,Cuisine,3.4,Ashwem Beach,Goa
+28,F,1800,Beach,Cuisine,3.4,Ashwem Beach,Goa
+27,F,1800,Beach,Cuisine,3.4,Ashwem Beach,Goa
+28,F,1700,Beach,Cuisine,3.4,Ashwem Beach,Goa
+28,M,1600,Beach,Cuisine,3.4,Ashwem Beach,Goa
+28,M,1600,Beach,Cuisine,3.4,Ashwem Beach,Goa
+27,M,1700,Beach,Cuisine,3.4,Ashwem Beach,Goa
+33,M,1800,Beach,Relaxation,3.4,Ashwem Beach,Goa
+32,F,1900,Beach,Relaxation,3.4,Ashwem Beach,Goa
+32,M,1800,Beach,Relaxation,3.4,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.4,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.4,Ashwem Beach,Goa
+32,F,1900,Beach,Relaxation,3.4,Ashwem Beach,Goa
+28,F,1800,Beach,Cuisine,3.4,Benaulim Beach,Goa
+31,F,1900,Beach,Cuisine,3.4,Benaulim Beach,Goa
+35,M,1500,Beach,Cuisine,3.4,Benaulim Beach,Goa
+27,F,1600,Beach,Cuisine,3.4,Benaulim Beach,Goa
+30,M,1800,Beach,Cuisine,3.4,Benaulim Beach,Goa
+27,F,1800,Beach,Cuisine,3.4,Benaulim Beach,Goa
+35,F,1600,Beach,Cuisine,3.4,Benaulim Beach,Goa
+29,M,1600,Beach,Relaxation,3.4,Butterfly Beach,Goa
+29,M,1700,Beach,Water Sports,3.4,Butterfly Beach,Goa
+29,F,1600,Beach,Water Sports,3.4,Butterfly Beach,Goa
+29,M,1800,Beach,Water Sports,3.4,Butterfly Beach,Goa
+29,F,1800,Beach,Water Sports,3.4,Butterfly Beach,Goa
+30,M,1700,Beach,Water Sports,3.4,Butterfly Beach,Goa
+30,F,1600,Beach,Water Sports,3.4,Butterfly Beach,Goa
+24,F,1300,Beach,Cuisine,3.4,Calangute Beach,Goa
+26,M,1000,Beach,Adventure,3.4,Candolim Beach,Goa
+26,F,1200,Beach,Adventure,3.4,Candolim Beach,Goa
+35,M,1900,Beach,Cuisine,3.4,Colva Beach,Goa
+35,F,1600,Beach,Cuisine,3.4,Colva Beach,Goa
+34,F,1700,Beach,Cuisine,3.4,Colva Beach,Goa
+34,M,2000,Beach,Cuisine,3.4,Colva Beach,Goa
+35,F,2000,Beach,Cuisine,3.4,Colva Beach,Goa
+35,F,1800,Beach,Cuisine,3.4,Colva Beach,Goa
+28,F,1200,Beach,Adventure,3.4,Galgibaga Beach,Goa
+31,F,1200,Beach,Adventure,3.4,Mobor Beach,Goa
+30,M,2000,Beach,Relaxation,3.4,Morjim Beach,Goa
+20,F,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+30,F,2000,Beach,Relaxation,3.4,Morjim Beach,Goa
+33,M,1400,Beach,Adventure,3.4,Palolem Beach,Goa
+30,F,1500,Beach,Adventure,3.3,Agonda Beach,Goa
+30,F,1400,Beach,Adventure,3.3,Agonda Beach,Goa
+29,F,1500,Beach,Adventure,3.3,Agonda Beach,Goa
+32,F,1400,Beach,Adventure,3.3,Agonda Beach,Goa
+32,M,1600,Beach,Adventure,3.3,Agonda Beach,Goa
+31,F,1400,Beach,Adventure,3.3,Agonda Beach,Goa
+28,F,1300,Beach,Adventure,3.3,Agonda Beach,Goa
+32,F,1400,Beach,Adventure,3.3,Agonda Beach,Goa
+26,F,1500,Beach,Adventure,3.3,Anjuna Beach,Goa
+29,M,1500,Beach,Adventure,3.3,Anjuna Beach,Goa
+27,F,1500,Beach,Adventure,3.3,Anjuna Beach,Goa
+26,M,1400,Beach,Adventure,3.3,Anjuna Beach,Goa
+27,M,1500,Beach,Adventure,3.3,Anjuna Beach,Goa
+27,M,1300,Beach,Adventure,3.3,Arambol Beach,Goa
+29,M,1800,Beach,Cuisine,3.3,Arambol Beach,Goa
+26,F,1600,Beach,Nightlife,3.3,Arambol Beach,Goa
+34,F,1900,Beach,Relaxation,3.3,Arambol Beach,Goa
+34,F,1900,Beach,Relaxation,3.3,Arambol Beach,Goa
+29,F,1800,Beach,Cuisine,3.3,Arambol Beach,Goa
+26,F,1600,Beach,Cuisine,3.3,Arambol Beach,Goa
+26,F,1600,Beach,Cuisine,3.3,Arambol Beach,Goa
+29,F,1700,Beach,Cuisine,3.3,Arambol Beach,Goa
+34,M,2000,Beach,Relaxation,3.3,Arambol Beach,Goa
+34,F,2000,Beach,Relaxation,3.3,Arambol Beach,Goa
+34,M,2000,Beach,Relaxation,3.3,Arambol Beach,Goa
+34,M,1900,Beach,Relaxation,3.3,Arambol Beach,Goa
+26,M,1300,Beach,Adventure,3.3,Ashwem Beach,Goa
+28,F,1600,Beach,Cuisine,3.3,Ashwem Beach,Goa
+32,F,1900,Beach,Relaxation,3.3,Ashwem Beach,Goa
+27,M,1700,Beach,Cuisine,3.3,Ashwem Beach,Goa
+28,M,1800,Beach,Cuisine,3.3,Ashwem Beach,Goa
+27,M,1800,Beach,Cuisine,3.3,Ashwem Beach,Goa
+28,M,1600,Beach,Cuisine,3.3,Ashwem Beach,Goa
+27,M,1600,Beach,Cuisine,3.3,Ashwem Beach,Goa
+32,M,1800,Beach,Relaxation,3.3,Ashwem Beach,Goa
+32,M,1900,Beach,Relaxation,3.3,Ashwem Beach,Goa
+33,F,1900,Beach,Relaxation,3.3,Ashwem Beach,Goa
+32,F,1800,Beach,Relaxation,3.3,Ashwem Beach,Goa
+33,F,1400,Beach,Cuisine,3.3,Benaulim Beach,Goa
+31,F,1500,Beach,Cuisine,3.3,Benaulim Beach,Goa
+31,F,1800,Beach,Cuisine,3.3,Benaulim Beach,Goa
+28,F,1500,Beach,Cuisine,3.3,Benaulim Beach,Goa
+32,F,1600,Beach,Cuisine,3.3,Benaulim Beach,Goa
+35,F,1800,Beach,Cuisine,3.3,Benaulim Beach,Goa
+35,F,1800,Beach,Cuisine,3.3,Benaulim Beach,Goa
+29,F,1500,Beach,Cuisine,3.3,Benaulim Beach,Goa
+30,F,1400,Beach,Cuisine,3.3,Benaulim Beach,Goa
+33,F,1600,Beach,Cuisine,3.3,Benaulim Beach,Goa
+29,M,1600,Beach,Cuisine,3.3,Benaulim Beach,Goa
+31,M,1500,Beach,Cuisine,3.3,Benaulim Beach,Goa
+26,F,1400,Beach,Cuisine,3.3,Benaulim Beach,Goa
+30,F,1700,Beach,Water Sports,3.3,Butterfly Beach,Goa
+30,M,1800,Beach,Water Sports,3.3,Butterfly Beach,Goa
+29,M,1600,Beach,Water Sports,3.3,Butterfly Beach,Goa
+29,F,1700,Beach,Water Sports,3.3,Butterfly Beach,Goa
+30,M,1600,Beach,Water Sports,3.3,Butterfly Beach,Goa
+34,F,2000,Beach,Cuisine,3.3,Colva Beach,Goa
+35,M,2000,Beach,Cuisine,3.3,Colva Beach,Goa
+34,F,2000,Beach,Cuisine,3.3,Colva Beach,Goa
+35,F,1900,Beach,Cuisine,3.3,Colva Beach,Goa
+34,F,1700,Beach,Cuisine,3.3,Colva Beach,Goa
+34,F,2000,Beach,Cuisine,3.3,Colva Beach,Goa
+34,F,1800,Beach,Cuisine,3.3,Colva Beach,Goa
+29,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+25,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+29,F,1200,Beach,Adventure,3.3,Palolem Beach,Goa
+30,F,1700,Beach,Cuisine,4.6,Varca Beach,Goa
+31,M,1300,Beach,Adventure,3.2,Agonda Beach,Goa
+32,F,1800,Beach,Cuisine,3.2,Agonda Beach,Goa
+26,F,1300,Beach,Nightlife,3.2,Agonda Beach,Goa
+26,F,1300,Beach,Shopping,3.2,Agonda Beach,Goa
+27,F,1600,Beach,Relaxation,3.2,Agonda Beach,Goa
+29,M,1600,Beach,Adventure,3.2,Agonda Beach,Goa
+32,M,1600,Beach,Adventure,3.2,Agonda Beach,Goa
+30,M,1500,Beach,Adventure,3.2,Agonda Beach,Goa
+28,F,1400,Beach,Adventure,3.2,Agonda Beach,Goa
+28,F,1400,Beach,Adventure,3.2,Agonda Beach,Goa
+28,F,1300,Beach,Adventure,3.2,Agonda Beach,Goa
+30,F,1400,Beach,Adventure,3.2,Agonda Beach,Goa
+31,F,1300,Beach,Adventure,3.2,Agonda Beach,Goa
+28,F,1400,Beach,Adventure,3.2,Agonda Beach,Goa
+28,F,1300,Beach,Adventure,3.2,Agonda Beach,Goa
+35,F,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+33,F,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+33,M,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+33,F,1900,Beach,Shopping,3.2,Agonda Beach,Goa
+30,M,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+34,F,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+35,F,1900,Beach,Shopping,3.2,Agonda Beach,Goa
+33,M,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+30,M,1900,Beach,Shopping,3.2,Agonda Beach,Goa
+31,F,2100,Beach,Shopping,3.2,Agonda Beach,Goa
+34,F,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+30,M,2000,Beach,Shopping,3.2,Agonda Beach,Goa
+33,F,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+29,F,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+26,M,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+26,M,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+28,M,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+28,M,1500,Beach,Adventure,3.2,Anjuna Beach,Goa
+29,M,1500,Beach,Adventure,3.2,Anjuna Beach,Goa
+29,M,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+27,M,1500,Beach,Adventure,3.2,Anjuna Beach,Goa
+27,F,1400,Beach,Adventure,3.2,Anjuna Beach,Goa
+29,M,1500,Beach,Adventure,3.2,Anjuna Beach,Goa
+27,M,1500,Beach,Adventure,3.2,Anjuna Beach,Goa
+25,F,1300,Beach,Adventure,3.2,Arambol Beach,Goa
+29,M,1300,Beach,Adventure,3.2,Arambol Beach,Goa
+31,M,1200,Beach,Adventure,3.2,Arambol Beach,Goa
+27,F,1200,Beach,Adventure,3.2,Arambol Beach,Goa
+29,F,1000,Beach,Adventure,3.2,Arambol Beach,Goa
+26,F,1400,Beach,Cuisine,3.2,Benaulim Beach,Goa
+28,F,1600,Beach,Relaxation,3.2,Butterfly Beach,Goa
+29,F,1700,Beach,Relaxation,3.2,Butterfly Beach,Goa
+35,M,1600,Beach,Cuisine,3.2,Colva Beach,Goa
+34,F,2000,Beach,Cuisine,3.2,Colva Beach,Goa
+34,F,1600,Beach,Cuisine,3.2,Colva Beach,Goa
+27,M,1500,Beach,Cuisine,3.2,Galgibaga Beach,Goa
+28,F,2100,Beach,Shopping,3.2,Galgibaga Beach,Goa
+28,F,2100,Beach,Cuisine,3.2,Galgibaga Beach,Goa
+33,F,1600,Beach,Cuisine,3.2,Majorda Beach,Goa
+29,M,1900,Beach,Nightlife,3.3,Majorda Beach,Goa
+27,M,1900,Beach,Shopping,3.2,Miramar Beach,Goa
+27,M,1900,Beach,Cuisine,3.2,Miramar Beach,Goa
+31,M,1100,Beach,Adventure,3.6,Mobor Beach,Goa
+31,M,1700,Beach,Cuisine,3.8,Mobor Beach,Goa
+28,M,1000,Beach,Adventure,3.2,Morjim Beach,Goa
+30,M,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+24,F,1600,Beach,Nightlife,3.2,Morjim Beach,Goa
+30,F,1900,Beach,Relaxation,3.5,Morjim Beach,Goa
+25,F,1400,Beach,Cuisine,3.2,Palolem Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+26,F,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+29,F,1300,Beach,Adventure,4.3,Vagator Beach,Goa
+26,F,1400,Beach,Nightlife,3.2,Varca Beach,Goa
+26,F,1400,Beach,Nightlife,3.2,Varca Beach,Goa
+26,F,1400,Beach,Nightlife,3.2,Varca Beach,Goa
+26,F,1600,Beach,Nightlife,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+27,F,1400,Beach,Adventure,3.1,Agonda Beach,Goa
+31,M,1900,Beach,Shopping,3.1,Agonda Beach,Goa
+27,M,1600,Beach,Adventure,3.1,Agonda Beach,Goa
+31,M,1600,Beach,Adventure,3.1,Agonda Beach,Goa
+27,F,1300,Beach,Adventure,3.1,Agonda Beach,Goa
+28,F,1600,Beach,Adventure,3.1,Agonda Beach,Goa
+33,M,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+35,F,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+35,M,1900,Beach,Shopping,3.1,Agonda Beach,Goa
+30,F,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+34,F,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+34,M,1900,Beach,Shopping,3.1,Agonda Beach,Goa
+30,F,2100,Beach,Shopping,3.1,Agonda Beach,Goa
+32,M,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+35,F,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+34,F,2100,Beach,Shopping,3.1,Agonda Beach,Goa
+35,F,2000,Beach,Shopping,3.1,Agonda Beach,Goa
+26,M,1500,Beach,Adventure,3.1,Anjuna Beach,Goa
+27,M,1400,Beach,Adventure,3.1,Anjuna Beach,Goa
+29,M,1500,Beach,Adventure,3.1,Anjuna Beach,Goa
+28,F,1500,Beach,Adventure,3.1,Anjuna Beach,Goa
+26,F,1500,Beach,Adventure,3.1,Anjuna Beach,Goa
+29,M,1100,Beach,Adventure,3.1,Arambol Beach,Goa
+30,M,1000,Beach,Adventure,3.1,Arambol Beach,Goa
+32,M,1100,Beach,Adventure,3.1,Arambol Beach,Goa
+31,F,1100,Beach,Adventure,3.1,Arambol Beach,Goa
+27,F,1300,Beach,Adventure,3.1,Arambol Beach,Goa
+26,F,1300,Beach,Adventure,3.1,Arambol Beach,Goa
+30,F,1100,Beach,Adventure,3.1,Arambol Beach,Goa
+28,M,1000,Beach,Adventure,3.1,Baga Beach,Goa
+29,M,1600,Beach,Relaxation,3.1,Butterfly Beach,Goa
+28,F,1600,Beach,Relaxation,3.1,Butterfly Beach,Goa
+29,F,1600,Beach,Relaxation,3.1,Butterfly Beach,Goa
+28,M,1600,Beach,Relaxation,3.1,Butterfly Beach,Goa
+28,M,1700,Beach,Relaxation,3.1,Butterfly Beach,Goa
+29,M,1600,Beach,Relaxation,3.1,Butterfly Beach,Goa
+26,F,1200,Beach,Adventure,3.1,Candolim Beach,Goa
+27,F,1400,Beach,Adventure,3.1,Galgibaga Beach,Goa
+22,F,1600,Beach,Cuisine,3.1,Majorda Beach,Goa
+28,F,1700,Beach,Cuisine,3.1,Miramar Beach,Goa
+27,F,1600,Beach,Relaxation,3.0,Agonda Beach,Goa
+26,F,1600,Beach,Shopping,3.0,Arambol Beach,Goa
+26,F,1600,Beach,Cuisine,3.0,Arambol Beach,Goa
+27,F,1000,Beach,Adventure,3.0,Arambol Beach,Goa
+27,M,1200,Beach,Adventure,3.0,Arambol Beach,Goa
+28,M,1000,Beach,Adventure,3.0,Arambol Beach,Goa
+30,F,1300,Beach,Adventure,3.0,Arambol Beach,Goa
+25,F,1200,Beach,Adventure,3.0,Arambol Beach,Goa
+26,M,1000,Beach,Adventure,3.0,Arambol Beach,Goa
+7,F,1200,Beach,Adventure,3.0,Baga Beach,Goa
+31,M,1000,Beach,Adventure,3.0,Baga Beach,Goa
+28,F,1600,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,F,1700,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,F,1600,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,M,1600,Beach,Relaxation,3.0,Butterfly Beach,Goa
+29,F,1600,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,M,1700,Beach,Relaxation,3.0,Butterfly Beach,Goa
+29,F,1700,Beach,Relaxation,3.0,Butterfly Beach,Goa
+29,F,1700,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,M,1700,Beach,Relaxation,3.0,Butterfly Beach,Goa
+28,M,1600,Beach,Relaxation,3.0,Butterfly Beach,Goa
+33,M,1600,Beach,Cuisine,3.1,Majorda Beach,Goa
+26,M,1600,Beach,Adventure,3.7,Morjim Beach,Goa
+28,M,1000,Beach,Adventure,2.9,Arambol Beach,Goa
+28,M,1000,Beach,Adventure,2.9,Arambol Beach,Goa
+25,M,1300,Beach,Adventure,2.9,Arambol Beach,Goa
+28,F,1600,Beach,Relaxation,2.9,Butterfly Beach,Goa
+28,F,1600,Beach,Relaxation,2.9,Butterfly Beach,Goa
+29,M,1600,Beach,Relaxation,2.9,Butterfly Beach,Goa
+29,M,1600,Beach,Relaxation,2.9,Butterfly Beach,Goa
+30,M,1100,Beach,Adventure,2.9,Calangute Beach,Goa
+30,M,1300,Beach,Adventure,2.9,Calangute Beach,Goa
+31,F,1300,Beach,Adventure,2.9,Calangute Beach,Goa
+30,M,1200,Beach,Adventure,2.9,Calangute Beach,Goa
+31,M,1200,Beach,Adventure,2.9,Calangute Beach,Goa
+29,F,1400,Beach,Adventure,2.9,Majorda Beach,Goa
+30,F,1200,Beach,Adventure,2.9,Majorda Beach,Goa
+27,F,1700,Beach,Adventure,2.9,Majorda Beach,Goa
+30,F,1700,Beach,Adventure,2.9,Majorda Beach,Goa
+31,M,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+29,M,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+31,F,1200,Beach,Adventure,2.8,Calangute Beach,Goa
+29,M,1100,Beach,Adventure,2.8,Calangute Beach,Goa
+30,F,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+29,M,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+31,M,1200,Beach,Adventure,2.8,Calangute Beach,Goa
+29,M,1200,Beach,Adventure,2.8,Calangute Beach,Goa
+29,M,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+31,M,1300,Beach,Adventure,2.8,Calangute Beach,Goa
+29,F,1200,Beach,Adventure,2.8,Majorda Beach,Goa
+23,M,1800,Beach,Relaxation,2.8,Majorda Beach,Goa
+30,F,1900,Beach,Relaxation,2.8,Majorda Beach,Goa
+31,F,1200,Beach,Adventure,3.5,Varca Beach,Goa
+32,M,1200,Beach,Adventure,2.7,Benaulim Beach,Goa
+32,M,1000,Beach,Adventure,2.7,Benaulim Beach,Goa
+32,M,1100,Beach,Adventure,2.7,Benaulim Beach,Goa
+32,F,1200,Beach,Adventure,2.7,Benaulim Beach,Goa
+33,F,1000,Beach,Adventure,2.7,Benaulim Beach,Goa
+32,M,1200,Beach,Adventure,2.7,Benaulim Beach,Goa
+33,M,1100,Beach,Adventure,2.7,Benaulim Beach,Goa
+33,M,1000,Beach,Adventure,2.7,Benaulim Beach,Goa
+30,F,1300,Beach,Adventure,2.7,Calangute Beach,Goa
+30,F,1100,Beach,Adventure,2.7,Calangute Beach,Goa
+31,F,1100,Beach,Adventure,2.7,Calangute Beach,Goa
+30,M,1300,Beach,Adventure,2.7,Calangute Beach,Goa
+30,F,1100,Beach,Adventure,2.7,Calangute Beach,Goa
+30,M,1100,Beach,Adventure,2.7,Calangute Beach,Goa
+31,M,1100,Beach,Adventure,2.7,Calangute Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+28,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,M,1200,Beach,Adventure,2.7,Colva Beach,Goa
+28,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,M,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,M,1200,Beach,Adventure,2.7,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.7,Colva Beach,Goa
+32,F,1400,Beach,Adventure,2.7,Galgibaga Beach,Goa
+22,M,1600,Beach,Relaxation,2.7,Majorda Beach,Goa
+29,M,1000,Beach,Adventure,2.6,Arambol Beach,Goa
+33,M,1300,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,M,1000,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,M,1200,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,F,1100,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,F,1300,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,M,1000,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,F,1300,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,F,1100,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,F,1100,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,F,1200,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,M,1200,Beach,Adventure,2.6,Benaulim Beach,Goa
+32,F,1100,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,F,1000,Beach,Adventure,2.6,Benaulim Beach,Goa
+33,F,1100,Beach,Adventure,2.6,Benaulim Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+28,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+28,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+28,M,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,M,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,M,1200,Beach,Adventure,2.6,Colva Beach,Goa
+27,F,1200,Beach,Adventure,2.6,Colva Beach,Goa
+29,F,1400,Beach,Adventure,2.6,Miramar Beach,Goa
+33,M,1100,Beach,Adventure,2.5,Benaulim Beach,Goa
+30,M,2000,Beach,Cuisine,2.5,Butterfly Beach,Goa
+26,F,1200,Beach,Adventure,2.3,Miramar Beach,Goa
+30,M,2100,Beach,Relaxation,4.6,Varca Beach,Goa
+31,M,2000,Beach,Relaxation,4.7,Varca Beach,Goa
+30,M,1600,Beach,Relaxation,4.6,Varca Beach,Goa
+31,F,2200,Beach,Relaxation,4.5,Varca Beach,Goa
+31,M,2000,Beach,Relaxation,4.5,Varca Beach,Goa
+29,F,2100,Beach,Relaxation,4.7,Varca Beach,Goa
+28,F,1800,Beach,Relaxation,4.5,Varca Beach,Goa
+30,F,2100,Beach,Relaxation,4.5,Varca Beach,Goa
+29,M,2200,Beach,Relaxation,4.6,Varca Beach,Goa
+28,M,1800,Beach,Relaxation,4.7,Varca Beach,Goa
+29,F,1800,Beach,Relaxation,4.7,Varca Beach,Goa
+29,F,1700,Beach,Relaxation,4.6,Varca Beach,Goa
+29,F,1900,Beach,Relaxation,4.6,Varca Beach,Goa
+29,F,1800,Beach,Relaxation,4.7,Varca Beach,Goa
+29,F,2200,Beach,Relaxation,4.6,Varca Beach,Goa
+30,M,1800,Beach,Relaxation,4.5,Varca Beach,Goa
+28,F,2200,Beach,Relaxation,4.6,Varca Beach,Goa
+28,F,2200,Beach,Relaxation,4.6,Varca Beach,Goa
+33,M,1000,Beach,Adventure,3.5,Varca Beach,Goa
+35,F,1200,Beach,Adventure,3.7,Varca Beach,Goa
+32,M,1000,Beach,Adventure,3.7,Varca Beach,Goa
+34,F,1000,Beach,Adventure,3.6,Varca Beach,Goa
+30,F,1100,Beach,Adventure,3.6,Varca Beach,Goa
+35,F,1100,Beach,Adventure,3.7,Varca Beach,Goa
+31,F,1100,Beach,Adventure,3.7,Varca Beach,Goa
+34,M,1200,Beach,Adventure,3.6,Varca Beach,Goa
+32,F,1000,Beach,Adventure,3.5,Varca Beach,Goa
+31,M,1200,Beach,Adventure,3.6,Varca Beach,Goa
+32,F,1000,Beach,Adventure,3.6,Varca Beach,Goa
+30,M,1100,Beach,Adventure,3.6,Varca Beach,Goa
+35,M,1300,Beach,Adventure,3.6,Varca Beach,Goa
+32,M,1100,Beach,Adventure,3.7,Varca Beach,Goa
+35,M,1000,Beach,Adventure,3.5,Varca Beach,Goa
+32,F,1000,Beach,Adventure,3.7,Varca Beach,Goa
+34,M,1100,Beach,Adventure,3.6,Varca Beach,Goa
+32,M,1200,Beach,Adventure,3.5,Varca Beach,Goa
+33,F,1700,Beach,Cuisine,4.7,Varca Beach,Goa
+32,M,1900,Beach,Cuisine,4.5,Varca Beach,Goa
+30,F,1800,Beach,Cuisine,4.7,Varca Beach,Goa
+32,F,1700,Beach,Cuisine,4.5,Varca Beach,Goa
+32,F,1800,Beach,Cuisine,4.4,Varca Beach,Goa
+30,F,1800,Beach,Cuisine,4.4,Varca Beach,Goa
+30,F,1700,Beach,Cuisine,4.5,Varca Beach,Goa
+31,M,1800,Beach,Cuisine,4.5,Varca Beach,Goa
+30,F,1900,Beach,Cuisine,4.6,Varca Beach,Goa
+32,F,1800,Beach,Cuisine,4.5,Varca Beach,Goa
+34,M,1700,Beach,Cuisine,4.5,Varca Beach,Goa
+31,F,1900,Beach,Cuisine,4.6,Varca Beach,Goa
+30,F,1900,Beach,Cuisine,4.4,Varca Beach,Goa
+32,F,1700,Beach,Cuisine,4.6,Varca Beach,Goa
+33,F,1700,Beach,Cuisine,4.4,Varca Beach,Goa
+32,M,1800,Beach,Cuisine,4.5,Varca Beach,Goa
+33,M,1800,Beach,Cuisine,4.5,Varca Beach,Goa
+30,F,1700,Beach,Cuisine,4.4,Varca Beach,Goa
+33,M,1700,Beach,Cuisine,4.5,Varca Beach,Goa
+33,M,1700,Beach,Cuisine,4.4,Varca Beach,Goa
+30,F,1700,Beach,Cuisine,4.7,Varca Beach,Goa
+33,M,1800,Beach,Cuisine,4.7,Varca Beach,Goa
+30,M,1700,Beach,Nightlife,3.4,Varca Beach,Goa
+28,F,1800,Beach,Nightlife,3.3,Varca Beach,Goa
+28,F,1700,Beach,Nightlife,3.3,Varca Beach,Goa
+30,M,1900,Beach,Nightlife,3.2,Varca Beach,Goa
+28,F,1900,Beach,Nightlife,3.5,Varca Beach,Goa
+26,M,1700,Beach,Nightlife,3.4,Varca Beach,Goa
+27,F,1700,Beach,Nightlife,3.3,Varca Beach,Goa
+27,M,1400,Beach,Nightlife,3.4,Varca Beach,Goa
+32,M,1600,Beach,Nightlife,3.5,Varca Beach,Goa
+31,F,1500,Beach,Nightlife,3.5,Varca Beach,Goa
+27,F,1800,Beach,Nightlife,3.3,Varca Beach,Goa
+28,F,1700,Beach,Nightlife,3.3,Varca Beach,Goa
+31,F,1700,Beach,Nightlife,3.4,Varca Beach,Goa
+32,F,1600,Beach,Nightlife,3.3,Varca Beach,Goa
+30,M,1700,Beach,Nightlife,3.5,Varca Beach,Goa
+29,F,1400,Beach,Nightlife,3.5,Varca Beach,Goa
+31,M,1800,Beach,Nightlife,3.3,Varca Beach,Goa
+25,M,1400,Beach,Shopping,3.6,Varca Beach,Goa
+29,F,1400,Beach,Shopping,3.5,Varca Beach,Goa
+28,F,1500,Beach,Shopping,3.5,Varca Beach,Goa
+26,F,1500,Beach,Shopping,3.5,Varca Beach,Goa
+26,M,1500,Beach,Shopping,3.6,Varca Beach,Goa
+27,F,1400,Beach,Shopping,3.6,Varca Beach,Goa
+28,F,1500,Beach,Shopping,3.6,Varca Beach,Goa
+27,M,1500,Beach,Shopping,3.6,Varca Beach,Goa
+29,F,1500,Beach,Shopping,3.6,Varca Beach,Goa
+30,M,1400,Beach,Shopping,3.6,Varca Beach,Goa
+28,F,1500,Beach,Shopping,3.5,Varca Beach,Goa
+25,M,1500,Beach,Shopping,3.6,Varca Beach,Goa
+30,F,1400,Beach,Shopping,3.5,Varca Beach,Goa
+29,F,1500,Beach,Shopping,3.6,Varca Beach,Goa
+29,M,1400,Beach,Shopping,3.6,Varca Beach,Goa
+29,F,1400,Beach,Shopping,3.5,Varca Beach,Goa
+29,F,1500,Beach,Shopping,3.6,Varca Beach,Goa
+25,M,1500,Beach,Shopping,3.6,Varca Beach,Goa
+25,M,1400,Beach,Shopping,3.5,Varca Beach,Goa
+28,F,1500,Beach,Shopping,3.5,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,F,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,F,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,F,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,F,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,F,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.2,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.3,Varca Beach,Goa
+26,M,1400,Beach,Water Sports,3.4,Varca Beach,Goa
+32,M,2200,Beach,Water Sports,4.7,Vagator Beach,Goa
+31,M,2100,Beach,Water Sports,4.8,Vagator Beach,Goa
+32,M,2200,Beach,Water Sports,4.8,Vagator Beach,Goa
+31,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+32,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+32,M,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,F,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+32,M,2100,Beach,Water Sports,4.8,Vagator Beach,Goa
+31,M,2100,Beach,Water Sports,4.7,Vagator Beach,Goa
+32,M,2200,Beach,Water Sports,5.0,Vagator Beach,Goa
+32,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+32,M,2200,Beach,Water Sports,4.8,Vagator Beach,Goa
+31,M,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,F,2100,Beach,Water Sports,4.8,Vagator Beach,Goa
+32,M,2100,Beach,Water Sports,5.0,Vagator Beach,Goa
+31,M,2100,Beach,Water Sports,4.8,Vagator Beach,Goa
+32,M,2200,Beach,Water Sports,5.0,Vagator Beach,Goa
+31,F,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,M,2100,Beach,Water Sports,4.8,Vagator Beach,Goa
+31,M,2200,Beach,Water Sports,4.8,Vagator Beach,Goa
+32,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,F,2200,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,M,2200,Beach,Water Sports,4.8,Vagator Beach,Goa
+32,M,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+31,F,2100,Beach,Water Sports,4.9,Vagator Beach,Goa
+29,F,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+27,M,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+26,M,1600,Beach,Shopping,4.0,Vagator Beach,Goa
+28,F,1800,Beach,Shopping,4.1,Vagator Beach,Goa
+28,M,1700,Beach,Shopping,3.8,Vagator Beach,Goa
+26,M,1600,Beach,Shopping,3.8,Vagator Beach,Goa
+27,M,1600,Beach,Shopping,4.0,Vagator Beach,Goa
+28,F,1800,Beach,Shopping,4.1,Vagator Beach,Goa
+27,F,1800,Beach,Shopping,3.9,Vagator Beach,Goa
+29,F,1700,Beach,Shopping,3.9,Vagator Beach,Goa
+26,M,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+26,F,1700,Beach,Shopping,3.8,Vagator Beach,Goa
+28,F,1700,Beach,Shopping,3.8,Vagator Beach,Goa
+26,F,1800,Beach,Shopping,4.0,Vagator Beach,Goa
+26,F,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+26,M,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+26,M,1800,Beach,Shopping,3.9,Vagator Beach,Goa
+28,M,1600,Beach,Shopping,4.0,Vagator Beach,Goa
+27,F,1800,Beach,Shopping,4.0,Vagator Beach,Goa
+29,M,1600,Beach,Shopping,3.9,Vagator Beach,Goa
+28,M,1700,Beach,Shopping,4.1,Vagator Beach,Goa
+27,M,1700,Beach,Shopping,3.8,Vagator Beach,Goa
+29,M,1800,Beach,Shopping,3.9,Vagator Beach,Goa
+27,M,1600,Beach,Shopping,4.0,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+28,F,1700,Beach,Relaxation,4.3,Vagator Beach,Goa
+28,M,1700,Beach,Relaxation,4.4,Vagator Beach,Goa
+30,F,1900,Beach,Nightlife,3.8,Vagator Beach,Goa
+28,M,1600,Beach,Nightlife,3.9,Vagator Beach,Goa
+29,M,1700,Beach,Nightlife,4.0,Vagator Beach,Goa
+28,M,1700,Beach,Nightlife,3.8,Vagator Beach,Goa
+28,F,1900,Beach,Nightlife,3.9,Vagator Beach,Goa
+29,F,1800,Beach,Nightlife,3.9,Vagator Beach,Goa
+28,M,1700,Beach,Nightlife,3.9,Vagator Beach,Goa
+31,F,1900,Beach,Nightlife,3.7,Vagator Beach,Goa
+28,M,1900,Beach,Nightlife,4.0,Vagator Beach,Goa
+31,M,1800,Beach,Nightlife,3.9,Vagator Beach,Goa
+28,F,1600,Beach,Nightlife,4.0,Vagator Beach,Goa
+30,F,1700,Beach,Nightlife,4.0,Vagator Beach,Goa
+28,M,1800,Beach,Nightlife,3.8,Vagator Beach,Goa
+31,M,1900,Beach,Nightlife,3.7,Vagator Beach,Goa
+29,F,1600,Beach,Nightlife,3.9,Vagator Beach,Goa
+31,F,1800,Beach,Nightlife,3.8,Vagator Beach,Goa
+30,F,2000,Beach,Cuisine,4.0,Vagator Beach,Goa
+31,M,1900,Beach,Cuisine,4.0,Vagator Beach,Goa
+30,M,2000,Beach,Cuisine,4.3,Vagator Beach,Goa
+30,F,1900,Beach,Cuisine,4.2,Vagator Beach,Goa
+30,F,2000,Beach,Cuisine,4.3,Vagator Beach,Goa
+30,M,2000,Beach,Cuisine,4.0,Vagator Beach,Goa
+32,M,2000,Beach,Cuisine,4.2,Vagator Beach,Goa
+31,M,2000,Beach,Cuisine,4.0,Vagator Beach,Goa
+31,F,1900,Beach,Cuisine,4.2,Vagator Beach,Goa
+32,F,2000,Beach,Cuisine,4.3,Vagator Beach,Goa
+32,M,1900,Beach,Cuisine,4.1,Vagator Beach,Goa
+32,F,1900,Beach,Cuisine,4.1,Vagator Beach,Goa
+31,F,1900,Beach,Cuisine,4.1,Vagator Beach,Goa
+32,M,1900,Beach,Cuisine,4.1,Vagator Beach,Goa
+32,M,2000,Beach,Cuisine,4.1,Vagator Beach,Goa
+30,M,2000,Beach,Cuisine,4.2,Vagator Beach,Goa
+31,F,1900,Beach,Cuisine,4.0,Vagator Beach,Goa
+30,F,1900,Beach,Cuisine,4.3,Vagator Beach,Goa
+29,M,1200,Beach,Adventure,4.7,Vagator Beach,Goa
+32,F,1000,Beach,Adventure,4.1,Vagator Beach,Goa
+30,F,1100,Beach,Adventure,4.7,Vagator Beach,Goa
+32,M,1000,Beach,Adventure,4.8,Vagator Beach,Goa
+29,M,1300,Beach,Adventure,4.1,Vagator Beach,Goa
+30,F,1100,Beach,Adventure,4.5,Vagator Beach,Goa
+32,M,1000,Beach,Adventure,4.5,Vagator Beach,Goa
+30,M,1200,Beach,Adventure,4.7,Vagator Beach,Goa
+31,F,1000,Beach,Adventure,4.8,Vagator Beach,Goa
+28,M,1300,Beach,Adventure,4.1,Vagator Beach,Goa
+30,M,1200,Beach,Adventure,4.8,Vagator Beach,Goa
+32,F,1000,Beach,Adventure,4.2,Vagator Beach,Goa
+31,F,1000,Beach,Adventure,4.3,Vagator Beach,Goa
+31,M,1300,Beach,Adventure,4.7,Vagator Beach,Goa
+31,M,1100,Beach,Adventure,4.4,Vagator Beach,Goa
+29,M,1200,Beach,Adventure,4.3,Vagator Beach,Goa
+25,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,M,1400,Beach,Cuisine,3.4,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+26,F,1400,Beach,Cuisine,3.5,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.5,Palolem Beach,Goa
+26,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,F,1500,Beach,Cuisine,3.4,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,F,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,F,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.5,Palolem Beach,Goa
+26,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,M,1400,Beach,Cuisine,3.4,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.2,Palolem Beach,Goa
+26,F,1400,Beach,Cuisine,3.4,Palolem Beach,Goa
+25,F,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.4,Palolem Beach,Goa
+25,F,1400,Beach,Cuisine,3.4,Palolem Beach,Goa
+26,F,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,M,1400,Beach,Cuisine,3.3,Palolem Beach,Goa
+25,F,1500,Beach,Cuisine,3.4,Palolem Beach,Goa
+26,M,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.4,Palolem Beach,Goa
+25,M,1500,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,F,1500,Beach,Cuisine,3.3,Palolem Beach,Goa
+26,M,1400,Beach,Cuisine,3.2,Palolem Beach,Goa
+25,M,1700,Beach,Nightlife,3.7,Palolem Beach,Goa
+29,M,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1700,Beach,Nightlife,3.7,Palolem Beach,Goa
+25,M,1800,Beach,Nightlife,3.8,Palolem Beach,Goa
+26,M,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+26,M,1900,Beach,Nightlife,3.7,Palolem Beach,Goa
+28,M,1800,Beach,Nightlife,3.6,Palolem Beach,Goa
+28,M,1900,Beach,Nightlife,3.8,Palolem Beach,Goa
+25,F,1700,Beach,Nightlife,3.9,Palolem Beach,Goa
+25,M,1700,Beach,Nightlife,3.9,Palolem Beach,Goa
+28,M,1800,Beach,Nightlife,3.8,Palolem Beach,Goa
+29,F,1900,Beach,Nightlife,3.8,Palolem Beach,Goa
+29,M,1900,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+25,F,1900,Beach,Nightlife,3.9,Palolem Beach,Goa
+27,F,1900,Beach,Nightlife,3.8,Palolem Beach,Goa
+27,F,1800,Beach,Nightlife,3.6,Palolem Beach,Goa
+26,F,1700,Beach,Nightlife,3.9,Palolem Beach,Goa
+28,F,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1700,Beach,Nightlife,3.7,Palolem Beach,Goa
+25,M,1600,Beach,Nightlife,3.7,Palolem Beach,Goa
+25,M,1800,Beach,Nightlife,3.6,Palolem Beach,Goa
+28,M,1900,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1700,Beach,Nightlife,3.6,Palolem Beach,Goa
+29,M,1800,Beach,Nightlife,3.8,Palolem Beach,Goa
+26,F,1600,Beach,Nightlife,3.6,Palolem Beach,Goa
+25,M,1700,Beach,Nightlife,3.8,Palolem Beach,Goa
+29,M,1600,Beach,Nightlife,3.8,Palolem Beach,Goa
+29,M,1900,Beach,Nightlife,3.7,Palolem Beach,Goa
+28,F,1900,Beach,Nightlife,3.9,Palolem Beach,Goa
+27,M,1800,Beach,Nightlife,3.9,Palolem Beach,Goa
+28,F,1600,Beach,Nightlife,3.8,Palolem Beach,Goa
+27,M,1800,Beach,Nightlife,3.8,Palolem Beach,Goa
+25,F,1600,Beach,Nightlife,3.9,Palolem Beach,Goa
+26,F,1700,Beach,Nightlife,3.9,Palolem Beach,Goa
+26,F,1700,Beach,Nightlife,3.6,Palolem Beach,Goa
+29,M,1600,Beach,Nightlife,3.8,Palolem Beach,Goa
+29,F,1900,Beach,Nightlife,3.6,Palolem Beach,Goa
+28,F,1700,Beach,Nightlife,3.6,Palolem Beach,Goa
+25,M,1700,Beach,Nightlife,3.8,Palolem Beach,Goa
+25,M,1900,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1600,Beach,Nightlife,3.7,Palolem Beach,Goa
+26,F,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1600,Beach,Nightlife,3.8,Palolem Beach,Goa
+25,F,1700,Beach,Nightlife,3.7,Palolem Beach,Goa
+26,M,1700,Beach,Nightlife,3.6,Palolem Beach,Goa
+28,M,1600,Beach,Nightlife,3.6,Palolem Beach,Goa
+26,M,1700,Beach,Nightlife,3.8,Palolem Beach,Goa
+25,M,1600,Beach,Nightlife,3.9,Palolem Beach,Goa
+29,F,1900,Beach,Nightlife,3.6,Palolem Beach,Goa
+26,F,1800,Beach,Nightlife,3.7,Palolem Beach,Goa
+27,F,1900,Beach,Nightlife,3.6,Palolem Beach,Goa
+27,M,1800,Beach,Relaxation,4.5,Palolem Beach,Goa
+29,F,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+29,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+29,F,1900,Beach,Relaxation,4.3,Palolem Beach,Goa
+29,F,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,M,1900,Beach,Relaxation,4.5,Palolem Beach,Goa
+27,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,F,1800,Beach,Relaxation,4.5,Palolem Beach,Goa
+27,F,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,F,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,F,1900,Beach,Relaxation,4.3,Palolem Beach,Goa
+28,M,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,M,1900,Beach,Relaxation,4.3,Palolem Beach,Goa
+28,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+29,M,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,M,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,M,1900,Beach,Relaxation,4.3,Palolem Beach,Goa
+29,F,1900,Beach,Relaxation,4.5,Palolem Beach,Goa
+29,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,F,1800,Beach,Relaxation,4.5,Palolem Beach,Goa
+28,M,1800,Beach,Relaxation,4.3,Palolem Beach,Goa
+28,F,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,F,1800,Beach,Relaxation,4.3,Palolem Beach,Goa
+28,F,1800,Beach,Relaxation,4.5,Palolem Beach,Goa
+28,M,1800,Beach,Relaxation,4.4,Palolem Beach,Goa
+28,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,F,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+29,F,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+27,F,1900,Beach,Relaxation,4.3,Palolem Beach,Goa
+27,M,1900,Beach,Relaxation,4.4,Palolem Beach,Goa
+31,M,2200,Beach,Shopping,4.8,Palolem Beach,Goa
+31,F,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.8,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2300,Beach,Shopping,5.0,Palolem Beach,Goa
+30,F,2300,Beach,Shopping,4.9,Palolem Beach,Goa
+31,F,2200,Beach,Shopping,4.8,Palolem Beach,Goa
+31,F,2500,Beach,Shopping,5.0,Palolem Beach,Goa
+30,M,2500,Beach,Shopping,4.8,Palolem Beach,Goa
+30,M,2300,Beach,Shopping,5.0,Palolem Beach,Goa
+31,M,2300,Beach,Shopping,4.8,Palolem Beach,Goa
+30,F,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+30,F,2300,Beach,Shopping,5.0,Palolem Beach,Goa
+30,M,2500,Beach,Shopping,4.8,Palolem Beach,Goa
+30,F,2300,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2200,Beach,Shopping,5.0,Palolem Beach,Goa
+31,F,2300,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2200,Beach,Shopping,4.8,Palolem Beach,Goa
+31,F,2200,Beach,Shopping,4.9,Palolem Beach,Goa
+31,F,2400,Beach,Shopping,5.0,Palolem Beach,Goa
+30,M,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+30,M,2300,Beach,Shopping,4.8,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+30,F,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+31,M,2500,Beach,Shopping,5.0,Palolem Beach,Goa
+30,F,2300,Beach,Shopping,5.0,Palolem Beach,Goa
+31,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+30,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+30,M,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+31,F,2400,Beach,Shopping,5.0,Palolem Beach,Goa
+30,M,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+31,F,2300,Beach,Shopping,4.9,Palolem Beach,Goa
+31,F,2500,Beach,Shopping,5.0,Palolem Beach,Goa
+31,M,2200,Beach,Shopping,5.0,Palolem Beach,Goa
+31,F,2400,Beach,Shopping,4.9,Palolem Beach,Goa
+30,F,2500,Beach,Shopping,4.9,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.5,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.8,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.8,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.5,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.8,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.8,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.5,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.5,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.5,Palolem Beach,Goa
+30,F,2000,Beach,Water Sports,3.7,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+30,M,2000,Beach,Water Sports,3.6,Palolem Beach,Goa
+24,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+24,F,1200,Beach,Adventure,3.7,Morjim Beach,Goa
+27,F,1500,Beach,Adventure,3.9,Morjim Beach,Goa
+29,F,1300,Beach,Adventure,3.7,Morjim Beach,Goa
+25,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+24,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+25,F,1500,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+25,F,1700,Beach,Adventure,3.7,Morjim Beach,Goa
+28,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+25,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+25,M,1500,Beach,Adventure,3.8,Morjim Beach,Goa
+25,F,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+27,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+24,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,1600,Beach,Adventure,3.7,Morjim Beach,Goa
+31,F,1200,Beach,Adventure,3.7,Morjim Beach,Goa
+28,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+24,F,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+30,F,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+26,F,1200,Beach,Adventure,3.7,Morjim Beach,Goa
+30,M,1500,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+26,M,1300,Beach,Adventure,3.7,Morjim Beach,Goa
+30,F,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1500,Beach,Adventure,3.7,Morjim Beach,Goa
+31,M,1700,Beach,Adventure,3.9,Morjim Beach,Goa
+25,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+30,F,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1800,Beach,Adventure,3.9,Morjim Beach,Goa
+28,M,1600,Beach,Adventure,3.7,Morjim Beach,Goa
+26,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+24,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+26,M,1300,Beach,Adventure,3.7,Morjim Beach,Goa
+31,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+30,F,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1200,Beach,Adventure,3.9,Morjim Beach,Goa
+30,M,1600,Beach,Adventure,3.7,Morjim Beach,Goa
+27,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1500,Beach,Adventure,3.7,Morjim Beach,Goa
+30,M,1700,Beach,Adventure,3.9,Morjim Beach,Goa
+24,F,1200,Beach,Adventure,3.9,Morjim Beach,Goa
+24,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1800,Beach,Adventure,3.9,Morjim Beach,Goa
+25,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1700,Beach,Adventure,3.9,Morjim Beach,Goa
+28,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+28,M,1500,Beach,Adventure,3.9,Morjim Beach,Goa
+24,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+27,F,1600,Beach,Adventure,3.9,Morjim Beach,Goa
+28,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+24,M,1700,Beach,Adventure,3.7,Morjim Beach,Goa
+27,M,1800,Beach,Adventure,3.7,Morjim Beach,Goa
+25,F,1300,Beach,Adventure,3.7,Morjim Beach,Goa
+30,M,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+31,F,1300,Beach,Adventure,3.9,Morjim Beach,Goa
+25,F,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1500,Beach,Adventure,3.8,Morjim Beach,Goa
+29,M,1400,Beach,Adventure,3.9,Morjim Beach,Goa
+27,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+25,F,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+30,F,1700,Beach,Adventure,3.8,Morjim Beach,Goa
+24,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1300,Beach,Adventure,3.7,Morjim Beach,Goa
+25,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+28,F,1300,Beach,Adventure,3.9,Morjim Beach,Goa
+28,F,1200,Beach,Adventure,3.7,Morjim Beach,Goa
+27,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1800,Beach,Adventure,3.9,Morjim Beach,Goa
+28,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+26,F,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+25,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1600,Beach,Adventure,3.9,Morjim Beach,Goa
+28,M,1300,Beach,Adventure,3.9,Morjim Beach,Goa
+26,F,1800,Beach,Adventure,3.7,Morjim Beach,Goa
+29,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+31,F,1500,Beach,Adventure,3.8,Morjim Beach,Goa
+31,M,1500,Beach,Adventure,3.9,Morjim Beach,Goa
+28,F,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+31,F,1600,Beach,Adventure,3.7,Morjim Beach,Goa
+24,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+29,M,1200,Beach,Adventure,3.8,Morjim Beach,Goa
+28,M,1500,Beach,Adventure,3.7,Morjim Beach,Goa
+25,F,1700,Beach,Adventure,3.9,Morjim Beach,Goa
+30,M,1500,Beach,Adventure,3.9,Morjim Beach,Goa
+24,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+31,F,1300,Beach,Adventure,3.9,Morjim Beach,Goa
+31,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+24,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+28,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+25,F,1400,Beach,Adventure,3.7,Morjim Beach,Goa
+28,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+28,M,1700,Beach,Adventure,3.9,Morjim Beach,Goa
+24,F,1200,Beach,Adventure,3.9,Morjim Beach,Goa
+27,M,1200,Beach,Adventure,3.9,Morjim Beach,Goa
+26,M,1400,Beach,Adventure,3.9,Morjim Beach,Goa
+26,F,1700,Beach,Adventure,3.7,Morjim Beach,Goa
+30,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+24,M,1300,Beach,Adventure,3.8,Morjim Beach,Goa
+26,M,1600,Beach,Adventure,3.9,Morjim Beach,Goa
+31,F,1600,Beach,Adventure,3.9,Morjim Beach,Goa
+24,M,1800,Beach,Adventure,3.8,Morjim Beach,Goa
+30,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1600,Beach,Adventure,3.9,Morjim Beach,Goa
+28,F,1600,Beach,Adventure,3.8,Morjim Beach,Goa
+27,M,1400,Beach,Adventure,3.8,Morjim Beach,Goa
+29,F,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+27,F,1500,Beach,Cuisine,3.3,Morjim Beach,Goa
+28,F,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,F,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+26,F,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+25,F,1500,Beach,Cuisine,3.3,Morjim Beach,Goa
+27,M,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+26,M,1700,Beach,Cuisine,3.4,Morjim Beach,Goa
+27,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+28,F,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,M,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+27,F,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+26,F,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+25,F,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+29,M,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,M,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+26,F,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+27,M,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,M,1500,Beach,Cuisine,3.3,Morjim Beach,Goa
+26,M,1700,Beach,Cuisine,3.4,Morjim Beach,Goa
+25,M,1500,Beach,Cuisine,3.3,Morjim Beach,Goa
+27,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+29,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+28,F,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+25,M,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+25,M,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+27,M,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,M,1700,Beach,Cuisine,3.4,Morjim Beach,Goa
+25,F,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,F,1500,Beach,Cuisine,3.3,Morjim Beach,Goa
+28,M,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+27,M,1700,Beach,Cuisine,3.3,Morjim Beach,Goa
+29,M,1600,Beach,Cuisine,3.4,Morjim Beach,Goa
+28,M,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+29,F,1700,Beach,Cuisine,3.4,Morjim Beach,Goa
+27,F,1500,Beach,Cuisine,3.4,Morjim Beach,Goa
+28,F,1600,Beach,Cuisine,3.3,Morjim Beach,Goa
+30,M,1900,Beach,Relaxation,3.4,Morjim Beach,Goa
+29,F,2000,Beach,Relaxation,3.3,Morjim Beach,Goa
+29,M,1900,Beach,Relaxation,3.5,Morjim Beach,Goa
+29,M,1900,Beach,Relaxation,3.3,Morjim Beach,Goa
+29,M,2000,Beach,Relaxation,3.3,Morjim Beach,Goa
+30,M,1900,Beach,Relaxation,3.3,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.4,Morjim Beach,Goa
+30,M,2000,Beach,Relaxation,3.4,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.4,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,F,2000,Beach,Relaxation,3.3,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.4,Morjim Beach,Goa
+29,F,2000,Beach,Relaxation,3.4,Morjim Beach,Goa
+30,F,1900,Beach,Relaxation,3.2,Morjim Beach,Goa
+30,M,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+30,F,2000,Beach,Relaxation,3.4,Morjim Beach,Goa
+30,M,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,F,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.4,Morjim Beach,Goa
+30,M,1900,Beach,Relaxation,3.2,Morjim Beach,Goa
+30,F,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,M,2000,Beach,Relaxation,3.3,Morjim Beach,Goa
+30,F,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,M,2000,Beach,Relaxation,3.2,Morjim Beach,Goa
+29,F,2000,Beach,Relaxation,3.3,Morjim Beach,Goa
+29,F,1900,Beach,Relaxation,3.3,Morjim Beach,Goa
+27,F,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,M,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2100,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,F,2100,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,F,2000,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+27,M,2000,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+27,F,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,M,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,M,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,F,2000,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+27,M,2000,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+27,M,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+27,F,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+28,M,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+27,F,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2100,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+27,F,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+28,M,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,M,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,F,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+29,F,2100,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+28,F,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,F,2100,Beach,Nightlife,4.6,Galgibaga Beach,Goa
+29,F,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+27,F,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+29,M,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,F,2000,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+27,F,2000,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+28,M,2100,Beach,Nightlife,4.4,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+29,M,2000,Beach,Nightlife,4.5,Galgibaga Beach,Goa
+28,F,2100,Beach,Nightlife,4.3,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,F,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,M,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,F,1800,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+28,M,1700,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+28,M,1800,Beach,Relaxation,4.0,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+27,M,1700,Beach,Relaxation,4.2,Galgibaga Beach,Goa
+27,F,1800,Beach,Relaxation,4.1,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.2,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.5,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.2,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.3,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.2,Galgibaga Beach,Goa
+33,M,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.4,Galgibaga Beach,Goa
+33,F,2300,Beach,Water Sports,4.2,Galgibaga Beach,Goa
+28,F,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+30,M,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+28,M,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+29,F,2100,Beach,Nightlife,4.4,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+31,M,2100,Beach,Nightlife,4.2,Miramar Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+28,F,2100,Beach,Nightlife,4.1,Miramar Beach,Goa
+30,F,2100,Beach,Nightlife,4.2,Miramar Beach,Goa
+31,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+30,F,2100,Beach,Nightlife,4.1,Miramar Beach,Goa
+31,M,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+28,F,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+29,F,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+28,F,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.4,Miramar Beach,Goa
+29,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+31,F,2200,Beach,Nightlife,4.4,Miramar Beach,Goa
+29,M,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+27,F,2100,Beach,Nightlife,4.4,Miramar Beach,Goa
+28,M,2200,Beach,Nightlife,4.4,Miramar Beach,Goa
+27,F,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+30,M,2100,Beach,Nightlife,4.4,Miramar Beach,Goa
+30,F,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+27,F,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+30,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+30,M,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+29,F,2200,Beach,Nightlife,4.2,Miramar Beach,Goa
+29,F,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+31,M,2200,Beach,Nightlife,4.3,Miramar Beach,Goa
+27,F,2200,Beach,Nightlife,4.1,Miramar Beach,Goa
+31,M,2100,Beach,Nightlife,4.2,Miramar Beach,Goa
+28,M,2100,Beach,Nightlife,4.3,Miramar Beach,Goa
+26,F,1700,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1600,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1800,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,F,1900,Beach,Water Sports,3.9,Miramar Beach,Goa
+26,M,1900,Beach,Water Sports,3.7,Miramar Beach,Goa
+27,F,1600,Beach,Water Sports,3.7,Miramar Beach,Goa
+27,F,1700,Beach,Water Sports,3.8,Miramar Beach,Goa
+26,M,1500,Beach,Water Sports,3.6,Miramar Beach,Goa
+26,F,1500,Beach,Water Sports,3.8,Miramar Beach,Goa
+26,F,1800,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1900,Beach,Water Sports,3.8,Miramar Beach,Goa
+27,M,1600,Beach,Water Sports,3.9,Miramar Beach,Goa
+27,M,1800,Beach,Water Sports,3.6,Miramar Beach,Goa
+27,F,1600,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1500,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1500,Beach,Water Sports,3.7,Miramar Beach,Goa
+27,M,1500,Beach,Water Sports,3.7,Miramar Beach,Goa
+26,M,1600,Beach,Water Sports,3.9,Miramar Beach,Goa
+26,M,1500,Beach,Water Sports,3.9,Miramar Beach,Goa
+27,M,1500,Beach,Water Sports,3.9,Miramar Beach,Goa
+26,M,1900,Beach,Water Sports,3.7,Miramar Beach,Goa
+27,M,1800,Beach,Water Sports,3.9,Miramar Beach,Goa
+26,M,1900,Beach,Water Sports,3.9,Miramar Beach,Goa
+27,F,1900,Beach,Water Sports,3.7,Miramar Beach,Goa
+28,F,1600,Beach,Adventure,3.1,Majorda Beach,Goa
+30,F,1600,Beach,Adventure,3.1,Majorda Beach,Goa
+28,M,1300,Beach,Adventure,3.0,Majorda Beach,Goa
+28,M,1600,Beach,Adventure,2.9,Majorda Beach,Goa
+29,F,1300,Beach,Adventure,3.1,Majorda Beach,Goa
+30,F,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+28,F,1500,Beach,Adventure,2.9,Majorda Beach,Goa
+27,F,1600,Beach,Adventure,2.9,Majorda Beach,Goa
+30,F,1400,Beach,Adventure,2.8,Majorda Beach,Goa
+27,F,1500,Beach,Adventure,3.0,Majorda Beach,Goa
+27,M,1200,Beach,Adventure,2.9,Majorda Beach,Goa
+27,M,1600,Beach,Adventure,2.9,Majorda Beach,Goa
+30,F,1700,Beach,Adventure,3.1,Majorda Beach,Goa
+27,M,1400,Beach,Adventure,3.0,Majorda Beach,Goa
+30,M,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+30,F,1600,Beach,Adventure,2.9,Majorda Beach,Goa
+29,F,1700,Beach,Adventure,3.0,Majorda Beach,Goa
+28,M,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+29,F,1600,Beach,Adventure,2.8,Majorda Beach,Goa
+29,M,1300,Beach,Adventure,3.1,Majorda Beach,Goa
+28,F,1200,Beach,Adventure,3.1,Majorda Beach,Goa
+28,F,1700,Beach,Adventure,2.8,Majorda Beach,Goa
+29,M,1700,Beach,Adventure,2.9,Majorda Beach,Goa
+27,F,1500,Beach,Adventure,3.1,Majorda Beach,Goa
+30,M,1400,Beach,Adventure,2.9,Majorda Beach,Goa
+27,F,1200,Beach,Adventure,2.9,Majorda Beach,Goa
+29,F,1500,Beach,Adventure,2.9,Majorda Beach,Goa
+30,M,1500,Beach,Adventure,3.0,Majorda Beach,Goa
+30,F,1300,Beach,Adventure,3.1,Majorda Beach,Goa
+28,F,1200,Beach,Adventure,2.8,Majorda Beach,Goa
+28,M,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+29,M,1700,Beach,Adventure,2.9,Majorda Beach,Goa
+30,M,1300,Beach,Adventure,2.9,Majorda Beach,Goa
+30,F,1200,Beach,Adventure,2.9,Majorda Beach,Goa
+27,F,1300,Beach,Adventure,3.0,Majorda Beach,Goa
+29,F,1200,Beach,Adventure,3.0,Majorda Beach,Goa
+30,M,1200,Beach,Adventure,3.0,Majorda Beach,Goa
+28,M,1400,Beach,Adventure,3.0,Majorda Beach,Goa
+29,F,1300,Beach,Adventure,3.0,Majorda Beach,Goa
+30,M,1200,Beach,Adventure,2.9,Majorda Beach,Goa
+28,M,1400,Beach,Adventure,2.9,Majorda Beach,Goa
+29,M,1200,Beach,Adventure,3.0,Majorda Beach,Goa
+27,F,1700,Beach,Adventure,3.0,Majorda Beach,Goa
+27,M,1200,Beach,Adventure,2.8,Majorda Beach,Goa
+29,F,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+29,M,1500,Beach,Adventure,3.0,Majorda Beach,Goa
+29,M,1300,Beach,Adventure,2.9,Majorda Beach,Goa
+28,F,1600,Beach,Adventure,3.0,Majorda Beach,Goa
+29,F,1200,Beach,Adventure,3.1,Majorda Beach,Goa
+28,F,1800,Beach,Cuisine,3.0,Majorda Beach,Goa
+28,M,1600,Beach,Cuisine,3.0,Majorda Beach,Goa
+30,M,1800,Beach,Cuisine,3.1,Majorda Beach,Goa
+33,F,1700,Beach,Cuisine,3.1,Majorda Beach,Goa
+28,M,1800,Beach,Cuisine,3.1,Majorda Beach,Goa
+31,M,1800,Beach,Cuisine,3.3,Majorda Beach,Goa
+32,M,1800,Beach,Cuisine,3.2,Majorda Beach,Goa
+31,F,1700,Beach,Cuisine,3.2,Majorda Beach,Goa
+32,F,1700,Beach,Cuisine,3.0,Majorda Beach,Goa
+33,F,1700,Beach,Cuisine,3.3,Majorda Beach,Goa
+33,F,1700,Beach,Cuisine,3.2,Majorda Beach,Goa
+27,M,1600,Beach,Cuisine,3.2,Majorda Beach,Goa
+28,M,1800,Beach,Cuisine,3.3,Majorda Beach,Goa
+33,M,1700,Beach,Cuisine,3.3,Majorda Beach,Goa
+32,F,1800,Beach,Cuisine,3.2,Majorda Beach,Goa
+32,M,1700,Beach,Cuisine,3.2,Majorda Beach,Goa
+33,F,1800,Beach,Cuisine,3.3,Majorda Beach,Goa
+32,M,1700,Beach,Cuisine,3.3,Majorda Beach,Goa
+31,F,1800,Beach,Cuisine,3.1,Majorda Beach,Goa
+29,M,1600,Beach,Cuisine,3.0,Majorda Beach,Goa
+30,M,1800,Beach,Cuisine,3.0,Majorda Beach,Goa
+33,F,1800,Beach,Cuisine,3.2,Majorda Beach,Goa
+28,F,1600,Beach,Cuisine,3.2,Majorda Beach,Goa
+27,F,1800,Beach,Cuisine,3.0,Majorda Beach,Goa
+27,M,1700,Beach,Cuisine,3.2,Majorda Beach,Goa
+32,F,1800,Beach,Cuisine,3.1,Majorda Beach,Goa
+32,F,1600,Beach,Nightlife,3.3,Majorda Beach,Goa
+29,M,1800,Beach,Nightlife,3.2,Majorda Beach,Goa
+33,F,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+29,M,1600,Beach,Nightlife,3.4,Majorda Beach,Goa
+31,F,1600,Beach,Nightlife,3.3,Majorda Beach,Goa
+31,M,1900,Beach,Nightlife,3.5,Majorda Beach,Goa
+29,F,1800,Beach,Nightlife,3.2,Majorda Beach,Goa
+33,M,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+30,M,1600,Beach,Nightlife,3.3,Majorda Beach,Goa
+32,M,1900,Beach,Nightlife,3.2,Majorda Beach,Goa
+33,M,1700,Beach,Nightlife,3.5,Majorda Beach,Goa
+31,F,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+32,M,1700,Beach,Nightlife,3.4,Majorda Beach,Goa
+31,M,1600,Beach,Nightlife,3.4,Majorda Beach,Goa
+30,F,1700,Beach,Nightlife,3.2,Majorda Beach,Goa
+33,F,1900,Beach,Nightlife,3.4,Majorda Beach,Goa
+29,F,1700,Beach,Nightlife,3.2,Majorda Beach,Goa
+33,F,1900,Beach,Nightlife,3.5,Majorda Beach,Goa
+32,M,1800,Beach,Nightlife,3.4,Majorda Beach,Goa
+30,M,1700,Beach,Nightlife,3.3,Majorda Beach,Goa
+33,F,1900,Beach,Nightlife,3.2,Majorda Beach,Goa
+28,M,1700,Beach,Nightlife,3.4,Majorda Beach,Goa
+28,F,1600,Beach,Nightlife,3.3,Majorda Beach,Goa
+31,M,1700,Beach,Nightlife,3.4,Majorda Beach,Goa
+31,F,1900,Beach,Nightlife,3.3,Majorda Beach,Goa
+29,F,1700,Beach,Nightlife,3.3,Majorda Beach,Goa
+31,M,1900,Beach,Nightlife,3.3,Majorda Beach,Goa
+28,M,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+32,M,1900,Beach,Nightlife,3.4,Majorda Beach,Goa
+32,F,1900,Beach,Nightlife,3.2,Majorda Beach,Goa
+31,M,1600,Beach,Nightlife,3.3,Majorda Beach,Goa
+28,M,1800,Beach,Nightlife,3.2,Majorda Beach,Goa
+30,F,1700,Beach,Nightlife,3.3,Majorda Beach,Goa
+29,M,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+30,F,1600,Beach,Nightlife,3.4,Majorda Beach,Goa
+31,M,1700,Beach,Nightlife,3.4,Majorda Beach,Goa
+31,F,1800,Beach,Nightlife,3.4,Majorda Beach,Goa
+32,F,1600,Beach,Nightlife,3.5,Majorda Beach,Goa
+30,M,1200,Beach,Adventure,3.5,Mobor Beach,Goa
+30,F,1200,Beach,Adventure,3.5,Mobor Beach,Goa
+30,M,1200,Beach,Adventure,3.5,Mobor Beach,Goa
+30,M,1100,Beach,Adventure,3.5,Mobor Beach,Goa
+31,F,1200,Beach,Adventure,3.6,Mobor Beach,Goa
+30,M,1100,Beach,Adventure,3.5,Mobor Beach,Goa
+32,F,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+31,M,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+31,M,1200,Beach,Adventure,3.5,Mobor Beach,Goa
+31,M,1000,Beach,Adventure,3.5,Mobor Beach,Goa
+31,M,1000,Beach,Adventure,3.6,Mobor Beach,Goa
+32,F,1200,Beach,Adventure,3.5,Mobor Beach,Goa
+32,F,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+32,F,1200,Beach,Adventure,3.6,Mobor Beach,Goa
+30,F,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+31,F,1000,Beach,Adventure,3.4,Mobor Beach,Goa
+32,F,1000,Beach,Adventure,3.6,Mobor Beach,Goa
+30,M,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+32,M,1100,Beach,Adventure,3.5,Mobor Beach,Goa
+32,F,1000,Beach,Adventure,3.7,Mobor Beach,Goa
+30,F,1000,Beach,Adventure,3.6,Mobor Beach,Goa
+31,M,1000,Beach,Adventure,3.5,Mobor Beach,Goa
+31,M,1100,Beach,Adventure,3.4,Mobor Beach,Goa
+30,M,1000,Beach,Adventure,3.5,Mobor Beach,Goa
+30,M,1200,Beach,Adventure,3.4,Mobor Beach,Goa
+32,M,1000,Beach,Adventure,3.8,Mobor Beach,Goa
+30,M,1200,Beach,Adventure,3.6,Mobor Beach,Goa
+31,M,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+31,M,1000,Beach,Adventure,3.6,Mobor Beach,Goa
+31,M,1200,Beach,Adventure,3.7,Mobor Beach,Goa
+30,F,1100,Beach,Adventure,3.5,Mobor Beach,Goa
+31,M,1700,Beach,Cuisine,3.8,Mobor Beach,Goa
+30,M,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,M,1800,Beach,Cuisine,3.8,Mobor Beach,Goa
+29,M,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+30,F,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+33,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+27,F,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+31,F,1800,Beach,Cuisine,4.0,Mobor Beach,Goa
+32,F,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+28,M,1900,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,M,1800,Beach,Cuisine,4.0,Mobor Beach,Goa
+28,M,1900,Beach,Cuisine,3.8,Mobor Beach,Goa
+27,M,1900,Beach,Cuisine,4.0,Mobor Beach,Goa
+31,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,M,1700,Beach,Cuisine,3.8,Mobor Beach,Goa
+32,M,1700,Beach,Cuisine,3.8,Mobor Beach,Goa
+28,F,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+31,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+29,M,1800,Beach,Cuisine,3.8,Mobor Beach,Goa
+28,M,1600,Beach,Cuisine,3.8,Mobor Beach,Goa
+31,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+30,F,1900,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,F,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+30,F,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+30,M,1600,Beach,Cuisine,4.0,Mobor Beach,Goa
+33,F,1900,Beach,Cuisine,4.0,Mobor Beach,Goa
+27,F,1600,Beach,Cuisine,4.0,Mobor Beach,Goa
+33,M,1900,Beach,Cuisine,3.9,Mobor Beach,Goa
+30,F,1800,Beach,Cuisine,3.9,Mobor Beach,Goa
+27,M,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+29,M,1600,Beach,Cuisine,4.0,Mobor Beach,Goa
+29,F,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+29,M,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+27,F,1700,Beach,Cuisine,3.9,Mobor Beach,Goa
+28,M,1900,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,F,1600,Beach,Cuisine,3.9,Mobor Beach,Goa
+32,M,2000,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Nightlife,4.7,Mobor Beach,Goa
+32,M,2200,Beach,Nightlife,4.7,Mobor Beach,Goa
+32,M,2300,Beach,Nightlife,4.3,Mobor Beach,Goa
+30,M,2200,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,F,1900,Beach,Nightlife,4.6,Mobor Beach,Goa
+32,F,2000,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,F,2400,Beach,Nightlife,4.5,Mobor Beach,Goa
+30,M,2500,Beach,Nightlife,4.7,Mobor Beach,Goa
+32,F,2100,Beach,Nightlife,4.1,Mobor Beach,Goa
+30,F,1900,Beach,Nightlife,4.9,Mobor Beach,Goa
+31,M,1700,Beach,Nightlife,4.1,Mobor Beach,Goa
+30,M,1800,Beach,Nightlife,4.8,Mobor Beach,Goa
+32,M,2100,Beach,Nightlife,4.7,Mobor Beach,Goa
+32,F,2000,Beach,Nightlife,4.1,Mobor Beach,Goa
+32,M,1800,Beach,Nightlife,4.3,Mobor Beach,Goa
+31,F,2400,Beach,Nightlife,4.1,Mobor Beach,Goa
+30,F,1700,Beach,Nightlife,4.9,Mobor Beach,Goa
+30,F,2100,Beach,Nightlife,4.3,Mobor Beach,Goa
+32,F,2300,Beach,Nightlife,4.4,Mobor Beach,Goa
+32,M,2400,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,F,2200,Beach,Nightlife,4.4,Mobor Beach,Goa
+30,M,1700,Beach,Nightlife,4.1,Mobor Beach,Goa
+31,F,1700,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,M,2500,Beach,Nightlife,4.8,Mobor Beach,Goa
+31,F,2500,Beach,Nightlife,4.8,Mobor Beach,Goa
+32,M,2500,Beach,Nightlife,4.2,Mobor Beach,Goa
+31,M,1900,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,M,2500,Beach,Nightlife,4.8,Mobor Beach,Goa
+32,F,1800,Beach,Nightlife,4.1,Mobor Beach,Goa
+32,F,2400,Beach,Nightlife,4.0,Mobor Beach,Goa
+30,F,2000,Beach,Nightlife,4.4,Mobor Beach,Goa
+31,M,2100,Beach,Nightlife,4.6,Mobor Beach,Goa
+32,M,2100,Beach,Nightlife,4.2,Mobor Beach,Goa
+31,F,1800,Beach,Nightlife,4.3,Mobor Beach,Goa
+31,F,2400,Beach,Nightlife,4.2,Mobor Beach,Goa
+32,F,1700,Beach,Nightlife,4.7,Mobor Beach,Goa
+30,M,1800,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,F,2100,Beach,Nightlife,4.6,Mobor Beach,Goa
+32,F,2100,Beach,Nightlife,4.8,Mobor Beach,Goa
+31,M,1800,Beach,Nightlife,4.3,Mobor Beach,Goa
+31,F,1900,Beach,Nightlife,4.2,Mobor Beach,Goa
+30,F,1900,Beach,Nightlife,4.4,Mobor Beach,Goa
+31,M,2000,Beach,Nightlife,4.5,Mobor Beach,Goa
+31,F,2300,Beach,Nightlife,4.3,Mobor Beach,Goa
+30,F,2400,Beach,Nightlife,4.8,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.3,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,M,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,1900,Beach,Water Sports,4.1,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.3,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.0,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,F,2000,Beach,Water Sports,4.2,Mobor Beach,Goa
+30,M,2000,Beach,Water Sports,4.1,Mobor Beach,Goa
