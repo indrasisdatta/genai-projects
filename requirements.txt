@@ -17,3 +17,6 @@ langchain_huggingface
 sentence_transformers
 grandalf
 youtube-transcript-api
+pinecone-client 
+pinecone-text 
+pinecone-notebooks
