@@ -10,6 +10,7 @@ elasticsearch
 streamlit
 pandas
 pypdf
+PyPDF2
 chromadb
 faiss-cpu
 langchain_chroma
@@ -20,3 +21,9 @@ youtube-transcript-api
 pinecone-client 
 pinecone-text 
 pinecone-notebooks
+psycopg
+psycopg2
+pgvector 
+faker 
+google-generativeai
+langchain-google-genai
