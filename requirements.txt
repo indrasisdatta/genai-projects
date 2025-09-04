@@ -27,3 +27,4 @@ pgvector
 faker 
 google-generativeai
 langchain-google-genai
+mysql-connector-python
