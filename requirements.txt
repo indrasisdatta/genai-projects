@@ -21,10 +21,11 @@ youtube-transcript-api
 pinecone-client 
 pinecone-text 
 pinecone-notebooks
-psycopg
-psycopg2
+# psycopg
+# psycopg2
 pgvector 
 faker 
 google-generativeai
 langchain-google-genai
 mysql-connector-python
+pdf2image
